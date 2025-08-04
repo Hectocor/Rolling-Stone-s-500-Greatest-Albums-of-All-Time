@@ -1,0 +1,3502 @@
+[
+  {
+    "rank": 1,
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "artist": "The Beatles",
+    "year": 1967,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2018/01/SgtPepper-1.jpg"
+  },
+  {
+    "rank": 2,
+    "album": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "year": 1966,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/PetSoundsCover.jpg/220px-PetSoundsCover.jpg"
+  },
+  {
+    "rank": 3,
+    "album": "Revolver",
+    "artist": "The Beatles",
+    "year": 1966,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/1/16/Revolver.jpg"
+  },
+  {
+    "rank": 4,
+    "album": "Highway 61 Revisited",
+    "artist": "Bob Dylan",
+    "year": 1965,
+    "album_art": "https://img.discogs.com/rC7Ou5qlwnIYxEugARB9_7M06HA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-546597-1379537138-7990.jpeg.jpg"
+  },
+  {
+    "rank": 5,
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "year": 1965,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Rubber_Soul.jpg/220px-Rubber_Soul.jpg"
+  },
+  {
+    "rank": 6,
+    "album": "What's Going On",
+    "artist": "Marvin Gaye",
+    "year": 1971,
+    "album_art": "https://images.theconversation.com/files/212618/original/file-20180329-189807-fofptc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+  },
+  {
+    "rank": 7,
+    "album": "Exile on Main St.",
+    "artist": "The Rolling Stones",
+    "year": 1972,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/ExileMainSt.jpg/220px-ExileMainSt.jpg"
+  },
+  {
+    "rank": 8,
+    "album": "London Calling",
+    "artist": "The Clash",
+    "year": 1979,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/TheClashLondonCallingalbumcover.jpg/220px-TheClashLondonCallingalbumcover.jpg"
+  },
+  {
+    "rank": 9,
+    "album": "Blonde on Blonde",
+    "artist": "Bob Dylan",
+    "year": 1966,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/3/38/Bob_Dylan_-_Blonde_on_Blonde.jpg"
+  },
+  {
+    "rank": 10,
+    "album": "The Beatles (\"The White Album\")",
+    "artist": "The Beatles",
+    "year": 1968,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2015/12/white-album-cover-serial-number04b-300x300.jpg"
+  },
+  {
+    "rank": 11,
+    "album": "The Sun Sessions",
+    "artist": "Elvis Presley",
+    "year": 1976,
+    "album_art": "https://img.discogs.com/pztSv1PtWWWydXf99W3NKyzGSzM=/fit-in/598x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1729944-1345331715-2311.jpeg.jpg"
+  },
+  {
+    "rank": 12,
+    "album": "Kind of Blue",
+    "artist": "Miles Davis",
+    "year": 1959,
+    "album_art": "https://macdndev.azureedge.net/genesis-temp/7/c/a/2/b/0/7ca2b0c8484983a9d607c6b7f6a2dfdf365c77db.jpg"
+  },
+  {
+    "rank": 13,
+    "album": "The Velvet Underground & Nico",
+    "artist": "The Velvet Underground",
+    "year": 1967,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg"
+  },
+  {
+    "rank": 14,
+    "album": "Abbey Road",
+    "artist": "The Beatles",
+    "year": 1969,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2017/08/Abbey-Road.jpg"
+  },
+  {
+    "rank": 15,
+    "album": "Are You Experienced",
+    "artist": "The Jimi Hendrix Experience",
+    "year": 1967,
+    "album_art": "https://upload.wikimedia.org/wikipedia/commons/3/33/Are_You_Experienced_-_US_cover-edit.jpg"
+  },
+  {
+    "rank": 16,
+    "album": "Blood on the Tracks",
+    "artist": "Bob Dylan",
+    "year": 1975,
+    "album_art": "https://consequenceofsound.net/wp-content/uploads/2018/10/bob-dylans-blood-on-the-tracks.jpg?quality=80"
+  },
+  {
+    "rank": 17,
+    "album": "Nevermind",
+    "artist": "Nirvana",
+    "year": 1991,
+    "album_art": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/p960x960/42406711_2064123793898252_6093152330536976384_o.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=TE2nZLvNswoAX-mXW5s&_nc_ht=scontent-sea1-1.xx&_nc_tp=6&oh=40895198076922937f4e2406633d3201&oe=5EE0E148"
+  },
+  {
+    "rank": 18,
+    "album": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "year": 1975,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Born_to_Run_%28Front_Cover%29.jpg/220px-Born_to_Run_%28Front_Cover%29.jpg"
+  },
+  {
+    "rank": 19,
+    "album": "Astral Weeks",
+    "artist": "Van Morrison",
+    "year": 1968,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/f7/VanMorrisonAstralWeeks.jpg"
+  },
+  {
+    "rank": 20,
+    "album": "Thriller",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/712aTlKjhqL._SL1500_.jpg"
+  },
+  {
+    "rank": 21,
+    "album": "The Great Twenty_Eight",
+    "artist": "Chuck Berry",
+    "year": 1982,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/4/4c/ChuckBerry_TheGreatTwentyEight.png"
+  },
+  {
+    "rank": 22,
+    "album": "The Complete Recordings",
+    "artist": "Robert Johnson",
+    "year": 1990,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81nGeDsbHYL._SX466_.jpg"
+  },
+  {
+    "rank": 23,
+    "album": "John Lennon/Plastic Ono Band",
+    "artist": "John Lennon / Plastic Ono Band",
+    "year": 1970,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/JLPOBCover.jpg/220px-JLPOBCover.jpg"
+  },
+  {
+    "rank": 24,
+    "album": "Innervisions",
+    "artist": "Stevie Wonder",
+    "year": 1973,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Steviewonder_innervisions.jpg/220px-Steviewonder_innervisions.jpg"
+  },
+  {
+    "rank": 25,
+    "album": "Live at the Apollo, 1962",
+    "artist": "James Brown",
+    "year": 1963,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/James_Brown-Live_at_the_Apollo_%28album_cover%29.jpg/220px-James_Brown-Live_at_the_Apollo_%28album_cover%29.jpg"
+  },
+  {
+    "rank": 26,
+    "album": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": 1977,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG"
+  },
+  {
+    "rank": 27,
+    "album": "The Joshua Tree",
+    "artist": "U2",
+    "year": 1987,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/6b/The_Joshua_Tree.png"
+  },
+  {
+    "rank": 28,
+    "album": "Who's Next",
+    "artist": "The Who",
+    "year": 1971,
+    "album_art": "https://pure-music.co.uk/wp-content/uploads/2019/03/whos-next-album-cover.png"
+  },
+  {
+    "rank": 29,
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "year": 1969,
+    "album_art": "https://cdn.shopify.com/s/files/1/2105/3701/products/Led-Zeppelin-Hindenburg-black-and-white-print_9deb95a0-29f0-4862-8142-4b04c6eed5f4_800x.jpg?v=1571713861"
+  },
+  {
+    "rank": 30,
+    "album": "Blue",
+    "artist": "Joni Mitchell",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81dCmd4fXTL._SL1500_.jpg"
+  },
+  {
+    "rank": 31,
+    "album": "Bringing It All Back Home",
+    "artist": "Bob Dylan",
+    "year": 1965,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Bob_Dylan_-_Bringing_It_All_Back_Home.jpg/220px-Bob_Dylan_-_Bringing_It_All_Back_Home.jpg"
+  },
+  {
+    "rank": 32,
+    "album": "Let It Bleed",
+    "artist": "The Rolling Stones",
+    "year": 1969,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81Ut0SKKVhL._SY355_.jpg"
+  },
+  {
+    "rank": 33,
+    "album": "Ramones",
+    "artist": "Ramones",
+    "year": 1976,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Ramones_-_Ramones_cover.jpg/220px-Ramones_-_Ramones_cover.jpg"
+  },
+  {
+    "rank": 34,
+    "album": "Music From Big Pink",
+    "artist": "The Band",
+    "year": 1968,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/a/a9/Bigpink.jpg"
+  },
+  {
+    "rank": 35,
+    "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+    "artist": "David Bowie",
+    "year": 1972,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91%2B9OVN138L._SL1500_.jpg"
+  },
+  {
+    "rank": 36,
+    "album": "Tapestry",
+    "artist": "Carole King",
+    "year": 1971,
+    "album_art": "https://cdn11.bigcommerce.com/s-rdecee92oy/images/stencil/1280x1280/products/31772/1764007/1sonsami9318__43028.1580361985.jpg?c=2&imbypass=on"
+  },
+  {
+    "rank": 37,
+    "album": "Hotel California",
+    "artist": "Eagles",
+    "year": 1976,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg"
+  },
+  {
+    "rank": 38,
+    "album": "The Anthology",
+    "artist": "Muddy Waters",
+    "year": 2001,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41WFiy7%2BPGL._SY450_.jpg"
+  },
+  {
+    "rank": 39,
+    "album": "Please Please Me",
+    "artist": "The Beatles",
+    "year": 1963,
+    "album_art": "https://2.bp.blogspot.com/-boQQSbSUZL4/VJGk1SW-XwI/AAAAAAAAO94/gNfZFgvHNTU/s1600/PleasePleaseMe_1.jpg"
+  },
+  {
+    "rank": 40,
+    "album": "Forever Changes",
+    "artist": "Love",
+    "year": 1967,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71KPBxAbmWL._SL1425_.jpg"
+  },
+  {
+    "rank": 41,
+    "album": "Never Mind the Bollocks Here's the Sex Pistols",
+    "artist": "Sex Pistols",
+    "year": 1977,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/4/4c/Never_Mind_the_Bollocks%2C_Here%27s_the_Sex_Pistols.png"
+  },
+  {
+    "rank": 42,
+    "album": "The Doors",
+    "artist": "The Doors",
+    "year": 1967,
+    "album_art": "https://farm6.staticflickr.com/5778/21671410599_72b4ebaa4d_z.jpg"
+  },
+  {
+    "rank": 43,
+    "album": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "year": 1973,
+    "album_art": "https://miro.medium.com/max/2480/1*8FkvzbSdSJ4HNxtuZo5kLg.jpeg"
+  },
+  {
+    "rank": 44,
+    "album": "Horses",
+    "artist": "Patti Smith",
+    "year": 1975,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71Y92VZcpfL._SX355_.jpg"
+  },
+  {
+    "rank": 45,
+    "album": "The Band (\"The Brown Album\")",
+    "artist": "The Band",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/7/74/The_Band_%28album%29_coverart.jpg"
+  },
+  {
+    "rank": 46,
+    "album": "Legend: The Best of Bob Marley and The Wailers",
+    "artist": "Bob Marley & The Wailers",
+    "year": 1984,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/c/c2/BobMarley-Legend.jpg"
+  },
+  {
+    "rank": 47,
+    "album": "A Love Supreme",
+    "artist": "John Coltrane",
+    "year": 1965,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71LQ34%2BJj%2BL._SL1061_.jpg"
+  },
+  {
+    "rank": 48,
+    "album": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy",
+    "year": 1988,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/7/73/PublicEnemyItTakesaNationofMillionstoHoldUsBack.jpg"
+  },
+  {
+    "rank": 49,
+    "album": "At Fillmore East",
+    "artist": "The Allman Brothers Band",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71zTJg85UlL._SL1400_.jpg"
+  },
+  {
+    "rank": 50,
+    "album": "Here's Little Richard",
+    "artist": "Little Richard",
+    "year": 1957,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81wcXzE64uL._SL1500_.jpg"
+  },
+  {
+    "rank": 51,
+    "album": "Bridge Over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51tKj1BYGLL.jpg"
+  },
+  {
+    "rank": 52,
+    "album": "Greatest Hits",
+    "artist": "Al Green",
+    "year": 1975,
+    "album_art": "https://cdn11.bigcommerce.com/s-rdecee92oy/images/stencil/1280x1280/products/16242/1744746/fplp11135__47774.1544635114.jpg?c=2&imbypass=on"
+  },
+  {
+    "rank": 53,
+    "album": "Meet The Beatles!",
+    "artist": "The Beatles",
+    "year": 1964,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/811RlXYoNfL._SL1428_.jpg"
+  },
+  {
+    "rank": 54,
+    "album": "The Birth of Soul",
+    "artist": "Ray Charles",
+    "year": 1991,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/f9/Ray_Charles_-_The_Birth_of_Soul.jpg"
+  },
+  {
+    "rank": 55,
+    "album": "Electric Ladyland",
+    "artist": "The Jimi Hendrix Experience",
+    "year": 1968,
+    "album_art": "https://recordmecca.com/wp-content/uploads/2015/12/Scan-Dec-9-2015-12.02-PM-3.jpg"
+  },
+  {
+    "rank": 56,
+    "album": "Elvis Presley",
+    "artist": "Elvis Presley",
+    "year": 1956,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Elvis_Presley_LPM-1254_Album_Cover.jpg/220px-Elvis_Presley_LPM-1254_Album_Cover.jpg"
+  },
+  {
+    "rank": 57,
+    "album": "Songs in the Key of Life",
+    "artist": "Stevie Wonder",
+    "year": 1976,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/e/e2/Songs_in_the_key_of_life.jpg"
+  },
+  {
+    "rank": 58,
+    "album": "Beggars Banquet",
+    "artist": "The Rolling Stones",
+    "year": 1968,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51PLYreKV5L._SX425_.jpg"
+  },
+  {
+    "rank": 59,
+    "album": "Chronicle: The 20 Greatest Hits",
+    "artist": "Creedence Clearwater Revival",
+    "year": 1976,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81RsH60wYKL._SL1500_.jpg"
+  },
+  {
+    "rank": 60,
+    "album": "Trout Mask Replica",
+    "artist": "Captain Beefheart & His Magic Band",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/3/30/Trout_Mask_Replica.png"
+  },
+  {
+    "rank": 61,
+    "album": "Greatest Hits",
+    "artist": "Sly & The Family Stone",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81pfEujtjIL._SL1500_.jpg"
+  },
+  {
+    "rank": 62,
+    "album": "Appetite for Destruction",
+    "artist": "Guns N' Roses",
+    "year": 1987,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71H9ZR6EGFL._SY355_.jpg"
+  },
+  {
+    "rank": 63,
+    "album": "Achtung Baby",
+    "artist": "U2",
+    "year": 1991,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71wrAlRtBDL._SL1000_.jpg"
+  },
+  {
+    "rank": 64,
+    "album": "Sticky Fingers",
+    "artist": "The Rolling Stones",
+    "year": 1971,
+    "album_art": "https://hips.hearstapps.com/esq.h-cdn.co/assets/15/24/1433876679-sticky.jpg"
+  },
+  {
+    "rank": 65,
+    "album": "Back to Mono (1958-1969)",
+    "artist": "Phil Spector",
+    "year": 1991,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51F11QWwocL._SX258_BO1,204,203,200_.jpg"
+  },
+  {
+    "rank": 66,
+    "album": "Moondance",
+    "artist": "Van Morrison",
+    "year": 1970,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/a/ae/VanMorrisonMoondance.jpg"
+  },
+  {
+    "rank": 67,
+    "album": "Kid A",
+    "artist": "Radiohead",
+    "year": 2000,
+    "album_art": "https://hips.hearstapps.com/esq.h-cdn.co/assets/15/24/1433876510-81p-o2cddll-sl1437-.jpg?resize=480:*"
+  },
+  {
+    "rank": 68,
+    "album": "Off the Wall",
+    "artist": "Michael Jackson",
+    "year": 1979,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/f6/Off_the_wall.jpg"
+  },
+  {
+    "rank": 69,
+    "album": "[Led Zeppelin IV]",
+    "artist": "Led Zeppelin",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51h-cJeHf0L.jpg"
+  },
+  {
+    "rank": 70,
+    "album": "The Stranger",
+    "artist": "Billy Joel",
+    "year": 1977,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81vbrv5cyhL._SL1500_.jpg"
+  },
+  {
+    "rank": 71,
+    "album": "Graceland",
+    "artist": "Paul Simon",
+    "year": 1986,
+    "album_art": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Graceland_cover_-_Paul_Simon.jpg"
+  },
+  {
+    "rank": 72,
+    "album": "Superfly",
+    "artist": "Curtis Mayfield",
+    "year": 1972,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81hBKihuLkL._SL1425_.jpg"
+  },
+  {
+    "rank": 73,
+    "album": "Physical Graffiti",
+    "artist": "Led Zeppelin",
+    "year": 1975,
+    "album_art": "https://img.discogs.com/oPPZ83CvcFYHDixDeSumFEbIxHE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13198713-1573677117-8132.jpeg.jpg"
+  },
+  {
+    "rank": 74,
+    "album": "After the Gold Rush",
+    "artist": "Neil Young",
+    "year": 1970,
+    "album_art": "https://img.discogs.com/YFKw0cpqQSQrU-FDUGmpndpgk6Q=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2349161-1417177241-1607.jpeg.jpg"
+  },
+  {
+    "rank": 75,
+    "album": "Star Time",
+    "artist": "James Brown",
+    "year": 1991,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/b/b5/James_Brown_Star_Time.jpg"
+  },
+  {
+    "rank": 76,
+    "album": "Purple Rain",
+    "artist": "Prince and the Revolution",
+    "year": 1984,
+    "album_art": "https://i.ebayimg.com/images/g/rBYAAOSwa51ZaVci/s-l300.jpg"
+  },
+  {
+    "rank": 77,
+    "album": "Back in Black",
+    "artist": "AC/DC",
+    "year": 1980,
+    "album_art": "https://upload.wikimedia.org/wikipedia/commons/9/92/ACDC_Back_in_Black.png"
+  },
+  {
+    "rank": 78,
+    "album": "Otis Blue: Otis Redding Sings Soul",
+    "artist": "Otis Redding",
+    "year": 1965,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41NdIuI91jL.jpg"
+  },
+  {
+    "rank": 79,
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "year": 1969,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/619CcXRfEIL._SL1200_.jpg"
+  },
+  {
+    "rank": 80,
+    "album": "Imagine",
+    "artist": "John Lennon",
+    "year": 1971,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/69/ImagineCover.jpg"
+  },
+  {
+    "rank": 81,
+    "album": "The Clash",
+    "artist": "The Clash",
+    "year": 1977,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81oLSe2dcKL._SL1500_.jpg"
+  },
+  {
+    "rank": 82,
+    "album": "Harvest",
+    "artist": "Neil Young",
+    "year": 1972,
+    "album_art": "https://img.discogs.com/fCaLIHl_MbaUTnciSNfdz5zr-3I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044287-1400327359-6935.jpeg.jpg"
+  },
+  {
+    "rank": 83,
+    "album": "Axis: Bold as Love",
+    "artist": "The Jimi Hendrix Experience",
+    "year": 1967,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81f20JroW9L._SL1140_.jpg"
+  },
+  {
+    "rank": 84,
+    "album": "I Never Loved a Man the Way I Love You",
+    "artist": "Aretha Franklin",
+    "year": 1967,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/1/15/Aretha_Franklin_%E2%80%93_I_Never_Loved_a_Man_the_Way_I_Love_You.jpg"
+  },
+  {
+    "rank": 85,
+    "album": "Lady Soul",
+    "artist": "Aretha Franklin",
+    "year": 1968,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/1/17/ArethaFranklinLadySoul.jpg"
+  },
+  {
+    "rank": 86,
+    "album": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "year": 1984,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/510YFKjiVRL._SY355_.jpg"
+  },
+  {
+    "rank": 87,
+    "album": "The Wall",
+    "artist": "Pink Floyd",
+    "year": 1979,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/715jbEtLNcL._SX355_.jpg"
+  },
+  {
+    "rank": 88,
+    "album": "At Folsom Prison",
+    "artist": "Johnny Cash",
+    "year": 1968,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71tp44HxiHL._SL1000_.jpg"
+  },
+  {
+    "rank": 89,
+    "album": "Dusty in Memphis",
+    "artist": "Dusty Springfield",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/c/cf/Dusty_Springfield%2C_Dusty_in_Memphis_%281969%29.png"
+  },
+  {
+    "rank": 90,
+    "album": "Talking Book",
+    "artist": "Stevie Wonder",
+    "year": 1972,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/2/25/Talking_Book.jpg"
+  },
+  {
+    "rank": 91,
+    "album": "Goodbye Yellow Brick Road",
+    "artist": "Elton John",
+    "year": 1973,
+    "album_art": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/goodbye-yellow-brick-road-robert-vanderwal.jpg"
+  },
+  {
+    "rank": 92,
+    "album": "20 Golden Greats",
+    "artist": "Buddy Holly",
+    "year": 1978,
+    "album_art": "https://img.discogs.com/nzASl2sj6ZPvwzJlIWqCPFZ2s1E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13891557-1563529907-5010.jpeg.jpg"
+  },
+  {
+    "rank": 93,
+    "album": "Sign \"Peace\" the Times",
+    "artist": "Prince",
+    "year": 1987,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61bXmooblgL.jpg"
+  },
+  {
+    "rank": 94,
+    "album": "40 Greatest Hits",
+    "artist": "Hank Williams",
+    "year": 1984,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81W-03axABL._SL1400_.jpg"
+  },
+  {
+    "rank": 95,
+    "album": "Brew",
+    "artist": "Miles Davis",
+    "year": 1970,
+    "album_art": "https://images.genius.com/d982719e47d2927bf046cb5f094f9f72.780x780x1.jpg"
+  },
+  {
+    "rank": 96,
+    "album": "Tommy",
+    "artist": "The Who",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/1/19/Tommyalbumcover.jpg"
+  },
+  {
+    "rank": 97,
+    "album": "The Freewheelin' Bob Dylan",
+    "artist": "Bob Dylan",
+    "year": 1963,
+    "album_art": "https://i2.wp.com/rockandrollroadmap.com/wp-content/uploads/2015/12/Freewheelin-by-Bob-Dylan.jpg?resize=1024%2C1024&ssl=1"
+  },
+  {
+    "rank": 98,
+    "album": "This Year's Model",
+    "artist": "Elvis Costello",
+    "year": 1978,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/e/e1/Elvis-Costello-This-Years-Model.jpg"
+  },
+  {
+    "rank": 99,
+    "album": "There's a Riot Goin' On",
+    "artist": "Sly & The Family Stone",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51rdkSVNBUL._SX355_.jpg"
+  },
+  {
+    "rank": 100,
+    "album": "Odessey and Oracle",
+    "artist": "The Zombies",
+    "year": 1968,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/6a/Odessey_and_Oracle.jpg"
+  },
+  {
+    "rank": 101,
+    "album": "In the Wee Small Hours",
+    "artist": "Frank Sinatra",
+    "year": 1955,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/1/12/Wee_small_hours_album_cover_high_definition.jpg"
+  },
+  {
+    "rank": 102,
+    "album": "Fresh Cream",
+    "artist": "Cream",
+    "year": 1966,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Fresh_cream.jpg/220px-Fresh_cream.jpg"
+  },
+  {
+    "rank": 103,
+    "album": "Giant Steps",
+    "artist": "John Coltrane",
+    "year": 1959,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Coltrane_Giant_Steps.jpg/220px-Coltrane_Giant_Steps.jpg"
+  },
+  {
+    "rank": 104,
+    "album": "Sweet Baby James",
+    "artist": "James Taylor",
+    "year": 1970,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/James_Taylor_-_Sweet_Baby_James.jpg/220px-James_Taylor_-_Sweet_Baby_James.jpg"
+  },
+  {
+    "rank": 105,
+    "album": "Modern Sounds in Country and Western Music",
+    "artist": "Ray Charles",
+    "year": 1962,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51KHXRnEG5L._SX466_.jpg"
+  },
+  {
+    "rank": 106,
+    "album": "Rocket to Russia",
+    "artist": "Ramones",
+    "year": 1977,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/5/50/Ramones_-_Rocket_to_Russia_cover.jpg"
+  },
+  {
+    "rank": 107,
+    "album": "Portrait of a Legend 1951-1964",
+    "artist": "Sam Cooke",
+    "year": 2003,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71MTLkKfvPL._SL1100_.jpg"
+  },
+  {
+    "rank": 108,
+    "album": "Hunky Dory",
+    "artist": "David Bowie",
+    "year": 1971,
+    "album_art": "https://m.media-amazon.com/images/I/617I+ajR5jL.jpg"
+  },
+  {
+    "rank": 109,
+    "album": "Aftermath",
+    "artist": "The Rolling Stones",
+    "year": 1966,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/8/8a/Aftermath_UK.jpg"
+  },
+  {
+    "rank": 110,
+    "album": "Loaded",
+    "artist": "The Velvet Underground",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/813n86QZJfL._SY355_.jpg"
+  },
+  {
+    "rank": 111,
+    "album": "The Bends",
+    "artist": "Radiohead",
+    "year": 1995,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71VJAU9IPSL._SL1200_.jpg"
+  },
+  {
+    "rank": 112,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "artist": "The Mamas and the Papas",
+    "year": 1966,
+    "album_art": "https://images.genius.com/d787618d4d480baba46f0c83f19366b5.1000x1000x1.jpg"
+  },
+  {
+    "rank": 113,
+    "album": "Court and Spark",
+    "artist": "Joni Mitchell",
+    "year": 1974,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61-ioDtgnvL._SL1280_.jpg"
+  },
+  {
+    "rank": 114,
+    "album": "Disraeli Gears",
+    "artist": "Cream",
+    "year": 1967,
+    "album_art": "https://img.discogs.com/L3O0-d44S4eMDoIbPmdHd0-Vj_c=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1358659-1496055161-7572.jpeg.jpg"
+  },
+  {
+    "rank": 115,
+    "album": "The Who Sell Out",
+    "artist": "The Who",
+    "year": 1967,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71zD-UhnsNL._SY450_.jpg"
+  },
+  {
+    "rank": 116,
+    "album": "Out of Our Heads",
+    "artist": "The Rolling Stones",
+    "year": 1965,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/418QQTJCVAL.jpg"
+  },
+  {
+    "rank": 117,
+    "album": "Layla and Other Assorted Love Songs",
+    "artist": "Derek and the Dominos",
+    "year": 1970,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/a/a7/LaylaCover.jpg"
+  },
+  {
+    "rank": 118,
+    "album": "Late Registration",
+    "artist": "Kanye West",
+    "year": 2005,
+    "album_art": "https://img.discogs.com/OcUJvw3S7-SnaQWblQE1WuQEXvw=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530085-1399453998-8858.jpeg.jpg"
+  },
+  {
+    "rank": 119,
+    "album": "At Last!",
+    "artist": "Etta James",
+    "year": 1960,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61HbgcOfI4L._SL1200_.jpg"
+  },
+  {
+    "rank": 120,
+    "album": "Sweetheart of the Rodeo",
+    "artist": "The Byrds",
+    "year": 1968,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91uFYdfAYWL._SL1500_.jpg"
+  },
+  {
+    "rank": 121,
+    "album": "Stand!",
+    "artist": "Sly & The Family Stone",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Stand-slyfam.jpg/220px-Stand-slyfam.jpg"
+  },
+  {
+    "rank": 122,
+    "album": "The Harder They Come",
+    "artist": "Various Artists",
+    "year": 1972,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/8/80/JimmyCliffTheHarderTheyComealbumcover.jpg"
+  },
+  {
+    "rank": 123,
+    "album": "Raising Hell",
+    "artist": "Run D.M.C.",
+    "year": 1986,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81LZkUP-oTL._SL1500_.jpg"
+  },
+  {
+    "rank": 124,
+    "album": "Moby Grape",
+    "artist": "Moby Grape",
+    "year": 1967,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/6d/Moby_Grape_-_Moby_Grape.jpg"
+  },
+  {
+    "rank": 125,
+    "album": "Pearl",
+    "artist": "Janis Joplin",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81l0jrw7q8L._SX466_.jpg"
+  },
+  {
+    "rank": 126,
+    "album": "Catch a Fire",
+    "artist": "The Wailers",
+    "year": 1973,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/b/bf/BobMarleyCatchAFire.jpg"
+  },
+  {
+    "rank": 127,
+    "album": "Younger Than Yesterday",
+    "artist": "The Byrds",
+    "year": 1967,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/6b/YoungerYesterdayCover.jpg"
+  },
+  {
+    "rank": 128,
+    "album": "Raw Power",
+    "artist": "Iggy and The Stooges",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51W%2BcuXNMgL._SX425_.jpg"
+  },
+  {
+    "rank": 129,
+    "album": "Remain in Light",
+    "artist": "Talking Heads",
+    "year": 1980,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81m509vvPbL._SL1425_.jpg"
+  },
+  {
+    "rank": 130,
+    "album": "Marquee Moon",
+    "artist": "Television",
+    "year": 1977,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/a/af/Marquee_moon_album_cover.jpg"
+  },
+  {
+    "rank": 131,
+    "album": "Paranoid",
+    "artist": "Black Sabbath",
+    "year": 1970,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg"
+  },
+  {
+    "rank": 132,
+    "album": "Saturday Night Fever: The Original Movie Sound Track",
+    "artist": "Various Artists",
+    "year": 1977,
+    "album_art": "https://m.media-amazon.com/images/I/81T8HWCy17L.jpg"
+  },
+  {
+    "rank": 133,
+    "album": "The Wild, the Innocent & the E Street Shuffle",
+    "artist": "Bruce Springsteen",
+    "year": 1973,
+    "album_art": "https://img.discogs.com/CFadw-30EwyDhUJN3_QRzK1ELw0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116450-1264932926.jpeg.jpg"
+  },
+  {
+    "rank": 134,
+    "album": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "year": 1994,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/31QQ4JfKzWL._SY355_.jpg"
+  },
+  {
+    "rank": 135,
+    "album": "Slanted and Enchanted",
+    "artist": "Pavement",
+    "year": 1992,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/5/54/Slanted_and_Enchanted_album_cover.jpg"
+  },
+  {
+    "rank": 136,
+    "album": "Greatest Hits",
+    "artist": "Elton John",
+    "year": 1974,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71s7uOgUVBL._SL1092_.jpg"
+  },
+  {
+    "rank": 137,
+    "album": "Tim",
+    "artist": "The Replacements",
+    "year": 1985,
+    "album_art": "https://img.discogs.com/CwMu9QFznVWyyvohSmAGNCBoc-Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-995839-1378266710-7019.jpeg.jpg"
+  },
+  {
+    "rank": 138,
+    "album": "The Chronic",
+    "artist": "Dr. Dre",
+    "year": 1992,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/1/19/Dr.DreTheChronic.jpg"
+  },
+  {
+    "rank": 139,
+    "album": "Rejuvenation",
+    "artist": "The Meters",
+    "year": 1974,
+    "album_art": "https://img.discogs.com/rsH6QHm6l5hY3sjpTWcaCWYAvtk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5196146-1564206855-5721.jpeg.jpg"
+  },
+  {
+    "rank": 140,
+    "album": "Parallel Lines",
+    "artist": "Blondie",
+    "year": 1978,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/e/ee/Blondie_-_Parallel_Lines.jpg"
+  },
+  {
+    "rank": 141,
+    "album": "Live at the Regal",
+    "artist": "B.B. King",
+    "year": 1965,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/2/2f/BB_King-Live_at_the_Regal_%28album_cover%29.jpg"
+  },
+  {
+    "rank": 142,
+    "album": "A Christmas Gift for You From Phil Spector",
+    "artist": "Phil Spector",
+    "year": 1963,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81XXQf7343L._SL1500_.jpg"
+  },
+  {
+    "rank": 143,
+    "album": "Gris-Gris",
+    "artist": "Dr. John, the Night Tripper",
+    "year": 1968,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/3/35/DrjohnNighttripper.jpg"
+  },
+  {
+    "rank": 144,
+    "album": "Straight Outta Compton",
+    "artist": "N.W.A",
+    "year": 1988,
+    "album_art": "https://i.ebayimg.com/images/g/KP8AAOSwUKxYd5um/s-l300.jpg"
+  },
+  {
+    "rank": 145,
+    "album": "Aja",
+    "artist": "Steely Dan",
+    "year": 1977,
+    "album_art": "https://img.discogs.com/2n1641bevCsLBugH4AIXMHRDAvI=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1377969-1297999564.jpeg.jpg"
+  },
+  {
+    "rank": 146,
+    "album": "Surrealistic Pillow",
+    "artist": "Jefferson Airplane",
+    "year": 1967,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81bDIXu8p7L._SL1500_.jpg"
+  },
+  {
+    "rank": 147,
+    "album": "Deja vu",
+    "artist": "Crosby, Stills, Nash & Young",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71Z6lsvGxdL._SL1425_.jpg"
+  },
+  {
+    "rank": 148,
+    "album": "Houses of the Holy",
+    "artist": "Led Zeppelin",
+    "year": 1973,
+    "album_art": "https://miro.medium.com/max/2000/1*T0dT2A8wfPZ0j-6vv_WiaQ.jpeg"
+  },
+  {
+    "rank": 149,
+    "album": "Santana",
+    "artist": "Santana",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/8/84/Santana_-_Santana_%281969%29.png"
+  },
+  {
+    "rank": 150,
+    "album": "Darkness on the Edge of Town",
+    "artist": "Bruce Springsteen",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81ChBQil4zL._SL1500_.jpg"
+  },
+  {
+    "rank": 151,
+    "album": "Funeral",
+    "artist": "Arcade Fire",
+    "year": 2004,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/2/25/ArcadeFireFuneralCover.jpg"
+  },
+  {
+    "rank": 152,
+    "album": "The B 52's / Play Loud",
+    "artist": "The B 52's",
+    "year": 1979,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/9/92/The_B-52%27s_cover.jpg"
+  },
+  {
+    "rank": 153,
+    "album": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "year": 1991,
+    "album_art": "https://le0pard13.files.wordpress.com/2017/05/lowendtheory.jpg?w=584&h=584"
+  },
+  {
+    "rank": 154,
+    "album": "Moanin' in the Moonlight",
+    "artist": "Howlin' Wolf",
+    "year": 1958,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51AgLRyvciL._SX355_.jpg"
+  },
+  {
+    "rank": 155,
+    "album": "Pretenders",
+    "artist": "Pretenders",
+    "year": 1980,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Pretenders_album.jpg/220px-Pretenders_album.jpg"
+  },
+  {
+    "rank": 156,
+    "album": "Paul's Boutique",
+    "artist": "Beastie Boys",
+    "year": 1989,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/0/07/BeastieBoysPaul%27sBoutique.jpg"
+  },
+  {
+    "rank": 157,
+    "album": "Closer",
+    "artist": "Joy Division",
+    "year": 1980,
+    "album_art": "https://img.discogs.com/auHHgMRRMeCgvUn3zOAu-8iBYoQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-255866-1516053936-1743.jpeg.jpg"
+  },
+  {
+    "rank": 158,
+    "album": "Captain Fantastic and the Brown Dirt Cowboy",
+    "artist": "Elton John",
+    "year": 1975,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81b1UfnwZqL._SL1200_.jpg"
+  },
+  {
+    "rank": 159,
+    "album": "Alive!",
+    "artist": "KISS",
+    "year": 1975,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51iRFI%2BJh8L._SX355_.jpg"
+  },
+  {
+    "rank": 160,
+    "album": "Electric Warrior",
+    "artist": "T. Rex",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/915wkGhJhYL._SL1500_.jpg"
+  },
+  {
+    "rank": 161,
+    "album": "The Dock of the Bay",
+    "artist": "Otis Redding",
+    "year": 1968,
+    "album_art": "https://img.discogs.com/hEni01dDePXfzhwKsIR6EbZRq80=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7334278-1548884715-1249.jpeg.jpg"
+  },
+  {
+    "rank": 162,
+    "album": "OK Computer",
+    "artist": "Radiohead",
+    "year": 1997,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg"
+  },
+  {
+    "rank": 163,
+    "album": "1999.0",
+    "artist": "Prince",
+    "year": 1982,
+    "album_art": "https://img.discogs.com/jqkPkyxZZ8PwxHGWpy8QqvFbJM8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7699636-1446996205-5620.jpeg.jpg"
+  },
+  {
+    "rank": 164,
+    "album": "The Very Best of Linda Ronstadt",
+    "artist": "Linda Ronstadt",
+    "year": 2002,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/6d/LindaRonstadt.jpg"
+  },
+  {
+    "rank": 165,
+    "album": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "year": 1973,
+    "album_art": "https://img.discogs.com/qrQ0gptyAUixLYNHlst3sAN_aZU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-305438-1550584469-8419.jpeg.jpg"
+  },
+  {
+    "rank": 166,
+    "album": "Imperial Bedroom",
+    "artist": "Elvis Costello & The Attractions",
+    "year": 1982,
+    "album_art": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-144569-48a3c989e39b88fa4164c33b52cecaa8e2801711.jpg?w=390"
+  },
+  {
+    "rank": 167,
+    "album": "Master of Puppets",
+    "artist": "Metallica",
+    "year": 1986,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg"
+  },
+  {
+    "rank": 168,
+    "album": "My Aim Is True",
+    "artist": "Elvis Costello",
+    "year": 1977,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/8188cLleEML._SL1400_.jpg"
+  },
+  {
+    "rank": 169,
+    "album": "Exodus",
+    "artist": "Bob Marley & The Wailers",
+    "year": 1977,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/b/b8/Bob_Marley_and_the_Wailers_-_Exodus.png"
+  },
+  {
+    "rank": 170,
+    "album": "Live at Leeds",
+    "artist": "The Who",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/712rC7p38CL._SX355_.jpg"
+  },
+  {
+    "rank": 171,
+    "album": "The Notorious Byrd Brothers",
+    "artist": "The Byrds",
+    "year": 1968,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61CXW3FiyWL._SX425_.jpg"
+  },
+  {
+    "rank": 172,
+    "album": "Every Picture Tells a Story",
+    "artist": "Rod Stewart",
+    "year": 1971,
+    "album_art": "https://i1.wp.com/www.thevinyldistrict.com/wp-content/uploads/2014/03/Rod_Stewart-Every_Picture_Tells_A_Story-Frontal.jpg?resize=425%2C425"
+  },
+  {
+    "rank": 173,
+    "album": "Something/Anything?",
+    "artist": "Todd Rundgren",
+    "year": 1972,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81HChwTxqaL._SL1426_.jpg"
+  },
+  {
+    "rank": 174,
+    "album": "Desire",
+    "artist": "Bob Dylan",
+    "year": 1976,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/0/0e/Bob_Dylan_-_Desire.jpg"
+  },
+  {
+    "rank": 175,
+    "album": "Close to You",
+    "artist": "Carpenters",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61c2OM4aymL._SY355_.jpg"
+  },
+  {
+    "rank": 176,
+    "album": "Rocks",
+    "artist": "Aerosmith",
+    "year": 1976,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/8/87/Aerosmith_-_Rocks.JPG"
+  },
+  {
+    "rank": 177,
+    "album": "One Nation Under a Groove",
+    "artist": "Funkadelic",
+    "year": 1978,
+    "album_art": "https://img.discogs.com/UPvfyok2U-QVowHgotxT9DN5vVE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10623214-1526486334-9258.jpeg.jpg"
+  },
+  {
+    "rank": 178,
+    "album": "The Anthology: 1961-1977",
+    "artist": "Curtis Mayfield and The Impressions",
+    "year": 1992,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41-T4kvSZ2L._SY450_.jpg"
+  },
+  {
+    "rank": 179,
+    "album": "The Definitive Collection",
+    "artist": "ABBA",
+    "year": 2001,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71b30e1GGML._SL1071_.jpg"
+  },
+  {
+    "rank": 180,
+    "album": "The Rolling Stones, Now!",
+    "artist": "The Rolling Stones",
+    "year": 1965,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Rollingstonesnow.jpg/220px-Rollingstonesnow.jpg"
+  },
+  {
+    "rank": 181,
+    "album": "Natty Dread",
+    "artist": "Bob Marley & The Wailers",
+    "year": 1974,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/f4/BobMarley%26theWailersNattyDread.jpg"
+  },
+  {
+    "rank": 182,
+    "album": "Fleetwood Mac",
+    "artist": "Fleetwood Mac",
+    "year": 1975,
+    "album_art": "https://pure-music.co.uk/wp-content/uploads/2019/10/1975-fleetwood-mac-album-cover.png"
+  },
+  {
+    "rank": 183,
+    "album": "Red Headed Stranger",
+    "artist": "Willie Nelson",
+    "year": 1975,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91SgIHbwYCL._SL1500_.jpg"
+  },
+  {
+    "rank": 184,
+    "album": "The Immaculate Collection",
+    "artist": "Madonna",
+    "year": 1990,
+    "album_art": "https://img.discogs.com/5sMY-WgqyOIZMjo0azHNephzHf0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6363459-1417392159-7454.jpeg.jpg"
+  },
+  {
+    "rank": 185,
+    "album": "The Stooges",
+    "artist": "The Stooges",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/e/e6/StoogesStooges.jpg"
+  },
+  {
+    "rank": 186,
+    "album": "Fresh",
+    "artist": "Sly & The Family Stone",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41hsS51vpQL._SY355_.jpg"
+  },
+  {
+    "rank": 187,
+    "album": "So",
+    "artist": "Peter Gabriel",
+    "year": 1986,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/a/a4/So_%28album%29.png"
+  },
+  {
+    "rank": 188,
+    "album": "Buffalo Springfield Again",
+    "artist": "Buffalo Springfield",
+    "year": 1967,
+    "album_art": "https://e.snmc.io/i/600/w/534cc8a7c3279ecab7e19a5e00519bf7/6276795"
+  },
+  {
+    "rank": 189,
+    "album": "Happy Trails",
+    "artist": "Quicksilver Messenger Service",
+    "year": 1969,
+    "album_art": "https://img.discogs.com/6HPn1rnyM6yfhJ7yND0XBTaWvz0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3043498-1316889116.jpeg.jpg"
+  },
+  {
+    "rank": 190,
+    "album": "From Elvis in Memphis",
+    "artist": "Elvis Presley",
+    "year": 1969,
+    "album_art": "https://d31wxntiwn0x96.cloudfront.net/rzgade/productimages/387.jpg?width=400&height=400&etag=%22e730dba92fabbd897c7312e44bc509f3%22"
+  },
+  {
+    "rank": 191,
+    "album": "Fun House",
+    "artist": "The Stooges",
+    "year": 1970,
+    "album_art": "https://img.discogs.com/32DUi2Lx6Klpn1oqVAxDf6ybnQc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5675190-1400339859-9712.jpeg.jpg"
+  },
+  {
+    "rank": 192,
+    "album": "The Gilded Palace of Sin",
+    "artist": "The Flying Burrito Brothers",
+    "year": 1969,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/814Mzj8HitL._SL1182_.jpg"
+  },
+  {
+    "rank": 193,
+    "album": "Dookie",
+    "artist": "Green Day",
+    "year": 1994,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91kny7EUh5L._SL1425_.jpg"
+  },
+  {
+    "rank": 194,
+    "album": "Transformer",
+    "artist": "Lou Reed",
+    "year": 1972,
+    "album_art": "https://media.pitchfork.com/photos/5929a23cc0084474cd0bffcc/1:1/w_320/259de20d.jpg"
+  },
+  {
+    "rank": 195,
+    "album": "Blues Breakers With Eric Clapton (\"The Beano Album\")",
+    "artist": "John Mayall & The Bluesbreakers",
+    "year": 1966,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41W79FGBRGL._QL70_ML2_.jpg"
+  },
+  {
+    "rank": 196,
+    "album": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",
+    "artist": "Various Artists",
+    "year": 1998,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91Jdelqb5UL._SL1500_.jpg"
+  },
+  {
+    "rank": 197,
+    "album": "Murmur",
+    "artist": "R.E.M.",
+    "year": 1983,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2019/11/murmur.jpg"
+  },
+  {
+    "rank": 198,
+    "album": "The Best of Little Walter",
+    "artist": "Little Walter",
+    "year": 1967,
+    "album_art": "https://img.discogs.com/UeUnAW9GKo5aIbCQJ1K8F3K_TTg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3437964-1421102493-6066.jpeg.jpg"
+  },
+  {
+    "rank": 199,
+    "album": "Is This It",
+    "artist": "The Strokes",
+    "year": 2001,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81xesqe7UML._SL1500_.jpg"
+  },
+  {
+    "rank": 200,
+    "album": "Highway to Hell",
+    "artist": "AC/DC",
+    "year": 1979,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51NdC7BYcRL._SY355_.jpg"
+  },
+  {
+    "rank": 201,
+    "album": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "year": 1994,
+    "album_art": "https://img.discogs.com/u_pB79uck86UR8Os3vbmidbFlWo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1475731-1222631308.jpeg.jpg"
+  },
+  {
+    "rank": 202,
+    "album": "Parsley, Sage, Rosemary and Thyme",
+    "artist": "Simon & Garfunkel",
+    "year": 1966,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71gFPsKS2QL._SL1500_.jpg"
+  },
+  {
+    "rank": 203,
+    "album": "Bad",
+    "artist": "Michael Jackson",
+    "year": 1987,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71rWMh8QHnL._SL1500_.jpg"
+  },
+  {
+    "rank": 204,
+    "album": "Modern Times",
+    "artist": "Bob Dylan",
+    "year": 2006,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/2/28/Bob_Dylan_-_Modern_Times.jpg"
+  },
+  {
+    "rank": 205,
+    "album": "Wheels of Fire",
+    "artist": "Cream",
+    "year": 1968,
+    "album_art": "https://www.sputnikmusic.com/images/albums/5129.jpg"
+  },
+  {
+    "rank": 206,
+    "album": "Dirty Mind",
+    "artist": "Prince",
+    "year": 1980,
+    "album_art": "https://beatopolis.files.wordpress.com/2015/03/dirtymind.jpg?w=640"
+  },
+  {
+    "rank": 207,
+    "album": "Abraxas",
+    "artist": "Santana",
+    "year": 1970,
+    "album_art": "https://images.45worlds.com/f/ab/santana-kc-30130-3-ab.jpg"
+  },
+  {
+    "rank": 208,
+    "album": "Tea for the Tillerman",
+    "artist": "Cat Stevens",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51QpQFE1Z5L.jpg"
+  },
+  {
+    "rank": 209,
+    "album": "Ten",
+    "artist": "Pearl Jam",
+    "year": 1991,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81eaKFGNhSL._SL1500_.jpg"
+  },
+  {
+    "rank": 210,
+    "album": "Everybody Knows This Is Nowhere",
+    "artist": "Neil Young & Crazy Horse",
+    "year": 1969,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/615j6Wbcc5L._SY300_QL70_ML2_.jpg"
+  },
+  {
+    "rank": 211,
+    "album": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "year": 1975,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61LYfqeXUDL._AC_SX522_.jpg"
+  },
+  {
+    "rank": 212,
+    "album": "Crooked Rain Crooked Rain",
+    "artist": "Pavement",
+    "year": 1994,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/64/Pavement_Crooked_Rain.jpg"
+  },
+  {
+    "rank": 213,
+    "album": "Tattoo You",
+    "artist": "The Rolling Stones",
+    "year": 1981,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2016/08/Rolling-Stones-Tattoo-You-Album-Cover-web-optimised-820.jpg"
+  },
+  {
+    "rank": 214,
+    "album": "Proud Mary: The Best of Ike and Tina Turner",
+    "artist": "Ike & Tina Turner",
+    "year": 1991,
+    "album_art": "https://img.discogs.com/EXr9g5QTsGNbL4X8FPwSGn8i0cE=/fit-in/420x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2309694-1458029177-7772.jpeg.jpg"
+  },
+  {
+    "rank": 215,
+    "album": "New York Dolls",
+    "artist": "New York Dolls",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/814RvrhnvWL._SL1423_.jpg"
+  },
+  {
+    "rank": 216,
+    "album": "Bo Diddley / Go Bo Diddley",
+    "artist": "Bo Diddley",
+    "year": 1986,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71VRR1ixQiL._SX355_.jpg"
+  },
+  {
+    "rank": 217,
+    "album": "Two Steps From the Blues",
+    "artist": "Bobby \"Blue\" Bland",
+    "year": 1961,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/815EDMmGuJL._SL1200_.jpg"
+  },
+  {
+    "rank": 218,
+    "album": "The Queen Is Dead",
+    "artist": "The Smiths",
+    "year": 1986,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71n8bP01wxL._SL1077_.jpg"
+  },
+  {
+    "rank": 219,
+    "album": "Licensed to Ill",
+    "artist": "Beastie Boys",
+    "year": 1986,
+    "album_art": "https://i.etsystatic.com/15564183/r/il/06609f/1356484790/il_570xN.1356484790_619m.jpg"
+  },
+  {
+    "rank": 220,
+    "album": "Look-Ka Py Py",
+    "artist": "The Meters",
+    "year": 1970,
+    "album_art": "https://m.media-amazon.com/images/I/514nJzEKKcL.jpg"
+  },
+  {
+    "rank": 221,
+    "album": "Loveless",
+    "artist": "My Bloody Valentine",
+    "year": 1991,
+    "album_art": "https://media.wired.com/photos/5932793ef682204f7369619f/master/w_660,c_limit/loveless.jpg"
+  },
+  {
+    "rank": 222,
+    "album": "New Orleans Piano",
+    "artist": "Professor Longhair",
+    "year": 1972,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71407DyEElL._SX355_.jpg"
+  },
+  {
+    "rank": 223,
+    "album": "War",
+    "artist": "U2",
+    "year": 1983,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/816LHcgjwZL._SL1400_.jpg"
+  },
+  {
+    "rank": 224,
+    "album": "The Neil Diamond Collection",
+    "artist": "Neil Diamond",
+    "year": 1999,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51KSFo41DoL._SX258_BO1,204,203,200_.jpg"
+  },
+  {
+    "rank": 225,
+    "album": "American Idiot",
+    "artist": "Green Day",
+    "year": 2004,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71Z0rLIvpuL._SL1448_.jpg"
+  },
+  {
+    "rank": 226,
+    "album": "Nebraska",
+    "artist": "Bruce Springsteen",
+    "year": 1982,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71A8zZJkR6L._SX355_.jpg"
+  },
+  {
+    "rank": 227,
+    "album": "Doolittle",
+    "artist": "Pixies",
+    "year": 1989,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81D%2BwuLfeIL._SX355_.jpg"
+  },
+  {
+    "rank": 228,
+    "album": "Paid in Full",
+    "artist": "Eric B. & Rakim",
+    "year": 1987,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/e/e1/RakimPIF.jpg"
+  },
+  {
+    "rank": 229,
+    "album": "Toys in the Attic",
+    "artist": "Aerosmith",
+    "year": 1975,
+    "album_art": "https://ak1.ostkcdn.com/images/products/17522206/Aerosmith-Toys-in-the-Attic-Framed-Album-Cover-123b3019-3ebe-42da-bf9a-8bd7ccf4bc51.jpg"
+  },
+  {
+    "rank": 230,
+    "album": "Nick of Time",
+    "artist": "Bonnie Raitt",
+    "year": 1989,
+    "album_art": "https://target.scene7.com/is/image/Target/GUEST_3d288971-a132-4d39-a220-1b6d1343001a?wid=488&hei=488&fmt=pjpeg"
+  },
+  {
+    "rank": 231,
+    "album": "A Night at the Opera",
+    "artist": "Queen",
+    "year": 1975,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71eu02SZK1L._SL1058_.jpg"
+  },
+  {
+    "rank": 232,
+    "album": "The Kink Kronikles",
+    "artist": "The Kinks",
+    "year": 1972,
+    "album_art": "https://img.discogs.com/G5wWoJMvQ4pFjN54TKTrYsPi1GE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6419607-1488462164-4607.jpeg.jpg"
+  },
+  {
+    "rank": 233,
+    "album": "Mr. Tambourine Man",
+    "artist": "The Byrds",
+    "year": 1965,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91qI2eqRo-L._SL1500_.jpg"
+  },
+  {
+    "rank": 234,
+    "album": "Bookends",
+    "artist": "Simon & Garfunkel",
+    "year": 1968,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71DkT9Cx0oL._SL1500_.jpg"
+  },
+  {
+    "rank": 235,
+    "album": "The Ultimate Collection",
+    "artist": "Patsy Cline",
+    "year": 2000,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51LfCJb0w1L._SY355_.jpg"
+  },
+  {
+    "rank": 236,
+    "album": "Mr. Excitement!",
+    "artist": "Jackie Wilson",
+    "year": 1992,
+    "album_art": "https://i.scdn.co/image/ab67706c0000da84636c42945e31a6aeb09f19c7"
+  },
+  {
+    "rank": 237,
+    "album": "My Generation",
+    "artist": "The Who",
+    "year": 1965,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/0/01/My-Generation--2.jpg"
+  },
+  {
+    "rank": 238,
+    "album": "Howlin' Wolf",
+    "artist": "Howlin' Wolf",
+    "year": 1962,
+    "album_art": "https://img.discogs.com/bWNnEJGz_VqQLY_8lXk2p0-e0N0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3901682-1348609131-2952.jpeg.jpg"
+  },
+  {
+    "rank": 239,
+    "album": "Like a Prayer",
+    "artist": "Madonna",
+    "year": 1989,
+    "album_art": "https://www.classicpopmag.com/wp-content/uploads/2019/03/91etw5xmsL-1._SL1425_.jpg"
+  },
+  {
+    "rank": 240,
+    "album": "Can't Buy a Thrill",
+    "artist": "Steely Dan",
+    "year": 1972,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/b/b2/Cant_buy_a_tcant_buy_a_thrill.jpg"
+  },
+  {
+    "rank": 241,
+    "album": "Let It Be",
+    "artist": "The Replacements",
+    "year": 1984,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_Replacements_-_Let_It_Be_cover.jpg"
+  },
+  {
+    "rank": 242,
+    "album": "Run D.M.C.",
+    "artist": "Run D.M.C.",
+    "year": 1984,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/0/0d/Run-D.M.C..jpg"
+  },
+  {
+    "rank": 243,
+    "album": "Black Sabbath",
+    "artist": "Black Sabbath",
+    "year": 1970,
+    "album_art": "https://townsquare.media/site/366/files/2015/07/Black-Sabbath-debut.jpg?w=980&q=75"
+  },
+  {
+    "rank": 244,
+    "album": "The Marshall Mathers LP",
+    "artist": "Eminem",
+    "year": 2000,
+    "album_art": "https://images.squarespace-cdn.com/content/v1/593070a42994cad2710a6439/1501346920866-VPKSV4GHXO7C82S5CHWE/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzAFzFJoCInLPKyj9AG8yKe7-Q2aFvP177fkO9TY_-rz5WoqqTEZpmj4yDEOdwKV68/image-asset.jpeg"
+  },
+  {
+    "rank": 245,
+    "album": "All Killer No Filler! The Jerry Lee Lewis Anthology",
+    "artist": "Jerry Lee Lewis",
+    "year": 1993,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51KPWfgm9LL._SX355_.jpg"
+  },
+  {
+    "rank": 246,
+    "album": "Freak Out!",
+    "artist": "The Mothers of Invention",
+    "year": 1966,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61iuD8FPD3L._SY355_.jpg"
+  },
+  {
+    "rank": 247,
+    "album": "Live/Dead",
+    "artist": "The Grateful Dead",
+    "year": 1969,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/A1IEyNYU2GL._SL1500_.jpg"
+  },
+  {
+    "rank": 248,
+    "album": "The Shape of Jazz to Come",
+    "artist": "Ornette Coleman",
+    "year": 1959,
+    "album_art": "https://www.jazzmessengers.com/25002-large_default/the-shape-of-jazz-to-come.jpg"
+  },
+  {
+    "rank": 249,
+    "album": "Automatic for the People",
+    "artist": "R.E.M.",
+    "year": 1992,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71wRCew9-sL._SY355_.jpg"
+  },
+  {
+    "rank": 250,
+    "album": "Reasonable Doubt",
+    "artist": "Jay Z",
+    "year": 1996,
+    "album_art": "https://img.discogs.com/IEQzqeLrd6xiJB7llRhAq2eqruU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7170598-1496897279-6613.jpeg.jpg"
+  },
+  {
+    "rank": 251,
+    "album": "Low",
+    "artist": "David Bowie",
+    "year": 1977,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81s%2BUFcFaUL._SY355_.jpg"
+  },
+  {
+    "rank": 252,
+    "album": "The Blueprint",
+    "artist": "Jay Z",
+    "year": 2001,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81SnS%2BLoVoL._SX355_.jpg"
+  },
+  {
+    "rank": 253,
+    "album": "The River",
+    "artist": "Bruce Springsteen",
+    "year": 1980,
+    "album_art": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/10/1389369194950/The-River-album-cover-014.jpg?width=700&quality=85&auto=format&fit=max&s=7fc9ce64b2870611d9cc66e68845d317"
+  },
+  {
+    "rank": 254,
+    "album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+    "artist": "Otis Redding",
+    "year": 1966,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61ux%2BU0y%2BrL._SX355_.jpg"
+  },
+  {
+    "rank": 255,
+    "album": "Metallica (\"The Black Album\")",
+    "artist": "Metallica",
+    "year": 1991,
+    "album_art": "https://i.pinimg.com/originals/03/22/b0/0322b061d8b41b84f0ecafeaa1200c09.jpg"
+  },
+  {
+    "rank": 256,
+    "album": "Trans Europa Express",
+    "artist": "Kraftwerk",
+    "year": 1977,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/516gPpUEupL._SY300_QL70_ML2_.jpg"
+  },
+  {
+    "rank": 257,
+    "album": "Whitney Houston",
+    "artist": "Whitney Houston",
+    "year": 1985,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Whitney_Houston_-_Whitney_Houston_%28album%29.jpg/220px-Whitney_Houston_-_Whitney_Houston_%28album%29.jpg"
+  },
+  {
+    "rank": 258,
+    "album": "The Kinks Are The Village Green Preservation Society",
+    "artist": "The Kinks",
+    "year": 1968,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/c/cb/TheKinksVillageGreenPreservationSociety.jpg"
+  },
+  {
+    "rank": 259,
+    "album": "The Velvet Rope",
+    "artist": "Janet",
+    "year": 1997,
+    "album_art": "https://img.discogs.com/6YCJGfyG4Qi8SSzIdkVQiny2lyA=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4025712-1352756190-4446.jpeg.jpg"
+  },
+  {
+    "rank": 260,
+    "album": "Stardust",
+    "artist": "Willie Nelson",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51w38JbzO-L.jpg"
+  },
+  {
+    "rank": 261,
+    "album": "American Beauty",
+    "artist": "Grateful Dead",
+    "year": 1970,
+    "album_art": "https://img.discogs.com/cgY7mRnKTshy6c6LUFweETDvKb8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12997119-1546139015-5439.jpeg.jpg"
+  },
+  {
+    "rank": 262,
+    "album": "Crosby, Stills & Nash",
+    "artist": "Crosby, Stills & Nash",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/3/39/Crosbystillsandnash.jpg"
+  },
+  {
+    "rank": 263,
+    "album": "Tracy Chapman",
+    "artist": "Tracy Chapman",
+    "year": 1988,
+    "album_art": "https://thebluegrasssituation.com/wp-content/uploads/2018/03/Tracy-chapman-album.jpg"
+  },
+  {
+    "rank": 264,
+    "album": "Workingman's Dead",
+    "artist": "Grateful Dead",
+    "year": 1970,
+    "album_art": "https://cdn.jerrygarcia.com/wp-content/uploads/1970/06/12150656/WorkingmansDead_Cover.jpg"
+  },
+  {
+    "rank": 265,
+    "album": "The Genius of Ray Charles",
+    "artist": "Ray Charles",
+    "year": 1959,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/2/26/Ray_Charles-The_Genius_of_Ray_Charles_-Atlantic-_%28album_cover%29.jpg"
+  },
+  {
+    "rank": 266,
+    "album": "Child Is Father to the Man",
+    "artist": "Blood, Sweat & Tears",
+    "year": 1968,
+    "album_art": "https://img.discogs.com/pQH9Xyhz-plGqxlkWpEY3YudU-w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1431998-1221024602.jpeg.jpg"
+  },
+  {
+    "rank": 267,
+    "album": "Quadrophenia",
+    "artist": "The Who",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51zJyUc%2Br6L._SX355_.jpg"
+  },
+  {
+    "rank": 268,
+    "album": "Paul Simon",
+    "artist": "Paul Simon",
+    "year": 1972,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/4/45/PaulSimon-Front.jpg"
+  },
+  {
+    "rank": 269,
+    "album": "Psychocandy",
+    "artist": "The Jesus and Mary Chain",
+    "year": 1985,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71YzhEseDsL._SX355_.jpg"
+  },
+  {
+    "rank": 270,
+    "album": "Some Girls",
+    "artist": "The Rolling Stones",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81gRMFAKxmL._SL1400_.jpg"
+  },
+  {
+    "rank": 271,
+    "album": "The Beach Boys Today!",
+    "artist": "The Beach Boys",
+    "year": 1965,
+    "album_art": "https://static.tvtropes.org/pmwiki/pub/images/77b62228230b07d0c4da9a1b1e5352fe.jpg"
+  },
+  {
+    "rank": 272,
+    "album": "Dig Me Out",
+    "artist": "Sleater Kinney",
+    "year": 1997,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/5/5e/SleaterKinneyDigMeOut.jpg"
+  },
+  {
+    "rank": 273,
+    "album": "Going to a Go-Go",
+    "artist": "Smokey Robinson & The Miracles",
+    "year": 1966,
+    "album_art": "https://img.discogs.com/8Giy8Ay3Avo-WJzy5juQKIXf_zM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13796258-1561316599-9974.jpeg.jpg"
+  },
+  {
+    "rank": 274,
+    "album": "Nightbirds",
+    "artist": "LaBelle",
+    "year": 1974,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71RHYD5bbyL._SL1500_.jpg"
+  },
+  {
+    "rank": 275,
+    "album": "The Slim Shady LP",
+    "artist": "Eminem",
+    "year": 1999,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/719F9nNZ-wL._SL1000_.jpg"
+  },
+  {
+    "rank": 276,
+    "album": "Mothership Connection",
+    "artist": "Parliament",
+    "year": 1975,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2019/12/Parliament-Mothership-Connection-album-cover-820.jpg"
+  },
+  {
+    "rank": 277,
+    "album": "Rhythm Nation 1814",
+    "artist": "Janet Jackson",
+    "year": 1989,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/9/91/Janet_Jackson_Rhythm_Nation_1814.png"
+  },
+  {
+    "rank": 278,
+    "album": "Anthology of American Folk Music",
+    "artist": "Various",
+    "year": 1997,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/AnthAmerFolkMusic.jpg/220px-AnthAmerFolkMusic.jpg"
+  },
+  {
+    "rank": 279,
+    "album": "Aladdin Sane",
+    "artist": "David Bowie",
+    "year": 1973,
+    "album_art": "https://img.discogs.com/mkKTmi4j15BmVYkb60F-sjoNoU4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-354906-1412775755-4012.jpeg.jpg"
+  },
+  {
+    "rank": 280,
+    "album": "All That You Can't Leave Behind",
+    "artist": "U2",
+    "year": 2000,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41V6Q1R4BJL.jpg"
+  },
+  {
+    "rank": 281,
+    "album": "My Life",
+    "artist": "Mary J. Blige",
+    "year": 1994,
+    "album_art": "https://images.genius.com/7d393bab03d9eda4fadfaa61222a1cea.1000x1000x1.jpg"
+  },
+  {
+    "rank": 282,
+    "album": "Folk Singer",
+    "artist": "Muddy Waters",
+    "year": 1964,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81R-3FaeK%2BL._SY355_.jpg"
+  },
+  {
+    "rank": 283,
+    "album": "Can't Get Enough",
+    "artist": "Barry White",
+    "year": 1974,
+    "album_art": "https://img.discogs.com/oen4jnBQxAgFbv97U74_fv_-j6w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-863997-1399911589-8778.jpeg.jpg"
+  },
+  {
+    "rank": 284,
+    "album": "The Cars",
+    "artist": "The Cars",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41KxB6UGFFL._AC_.jpg"
+  },
+  {
+    "rank": 285,
+    "album": "Music of My Mind",
+    "artist": "Stevie Wonder",
+    "year": 1972,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71B3LXMTvkL._SY355_.jpg"
+  },
+  {
+    "rank": 286,
+    "album": "I'm Still in Love With You",
+    "artist": "Al Green",
+    "year": 1972,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/717g58emu7L._SL1200_.jpg"
+  },
+  {
+    "rank": 287,
+    "album": "Los Angeles",
+    "artist": "X",
+    "year": 1980,
+    "album_art": "https://media.pitchfork.com/photos/5c6731b8702c0f32fb8e95fc/1:1/w_320/x_los%20angeles.jpg"
+  },
+  {
+    "rank": 288,
+    "album": "Anthem of the Sun",
+    "artist": "Grateful Dead",
+    "year": 1968,
+    "album_art": "https://img.discogs.com/PPFLCH0u9TLmjClttIfZarb7268=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4044231-1583093757-8816.jpeg.jpg"
+  },
+  {
+    "rank": 289,
+    "album": "Something Else by The Kinks",
+    "artist": "The Kinks",
+    "year": 1967,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51boryEV27L._SY355_.jpg"
+  },
+  {
+    "rank": 290,
+    "album": "Call Me",
+    "artist": "Al Green",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61gUy2WeE7L._SX522_.jpg"
+  },
+  {
+    "rank": 291,
+    "album": "Talking Heads: 77",
+    "artist": "Talking Heads",
+    "year": 1977,
+    "album_art": "https://img.discogs.com/8BNy4LkiDcjAWZ7prOpkkivhaZs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-192870-1209765498.jpeg.jpg"
+  },
+  {
+    "rank": 292,
+    "album": "The Basement Tapes",
+    "artist": "Bob Dylan and the Band",
+    "year": 1975,
+    "album_art": "https://cdn-s3.allmusic.com/release-covers/500/0001/419/0001419998.jpg"
+  },
+  {
+    "rank": 293,
+    "album": "White Light/White Heat",
+    "artist": "The Velvet Underground",
+    "year": 1968,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/61/Whitelightwhiteheat.jpg"
+  },
+  {
+    "rank": 294,
+    "album": "Kick Out the Jams",
+    "artist": "MC5",
+    "year": 1969,
+    "album_art": "https://img.discogs.com/ozDtEiPIQ92I87eaYzI_GSXJtsM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4611227-1369894726-8228.jpeg.jpg"
+  },
+  {
+    "rank": 295,
+    "album": "Songs of Love and Hate",
+    "artist": "Leonard Cohen",
+    "year": 1970,
+    "album_art": "https://cdn-s3.allmusic.com/release-covers/250/0000/352/0000352704.jpg"
+  },
+  {
+    "rank": 296,
+    "album": "Meat Is Murder",
+    "artist": "The Smiths",
+    "year": 1985,
+    "album_art": "https://img.discogs.com/UwVrpyB0WgK3VuhqVVFXlyKPYRs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-373240-1189712644.jpeg.jpg"
+  },
+  {
+    "rank": 297,
+    "album": "We're Only in It for the Money",
+    "artist": "The Mothers of Invention",
+    "year": 1968,
+    "album_art": "https://img.discogs.com/nxDjKARfXk9aPmBNm5Qwyh5YYbc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12803227-1547598441-8286.jpeg.jpg"
+  },
+  {
+    "rank": 298,
+    "album": "The College Dropout",
+    "artist": "Kanye West",
+    "year": 2003,
+    "album_art": "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/kap7sz3mbnrnrhdugnjl.jpg"
+  },
+  {
+    "rank": 299,
+    "album": "Weezer (Blue Album)",
+    "artist": "Weezer",
+    "year": 1994,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61%2BYFnKqzgL._SL1400_.jpg"
+  },
+  {
+    "rank": 300,
+    "album": "Master of Reality",
+    "artist": "Black Sabbath",
+    "year": 1971,
+    "album_art": "https://lh3.googleusercontent.com/proxy/sF_20wiRKFhLBs0lm9_RmSbzyZp2RmW9wsWPnnYgstC_PLiZVRWHpUI4SW_jaeOFENhlSIBkGx7eqHncTSRkMBRXXGk0mPC7hc7hy1LggU8HAdo7RY4"
+  },
+  {
+    "rank": 301,
+    "album": "Coat of Many Colors",
+    "artist": "Dolly Parton",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61yGYjfP1KL._SX355_.jpg"
+  },
+  {
+    "rank": 302,
+    "album": "Fear of a Black Planet",
+    "artist": "Public Enemy",
+    "year": 1990,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71nY5WsayXL._SX355_.jpg"
+  },
+  {
+    "rank": 303,
+    "album": "John Wesley Harding",
+    "artist": "Bob Dylan",
+    "year": 1967,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71jFBSrV4TL._SL1500_.jpg"
+  },
+  {
+    "rank": 304,
+    "album": "Grace",
+    "artist": "Jeff Buckley",
+    "year": 1994,
+    "album_art": "https://consequenceofsound.net/wp-content/uploads/2016/03/jeffbuckley_grace.jpg?quality=80&w=807"
+  },
+  {
+    "rank": 305,
+    "album": "Car Wheels on a Gravel Road",
+    "artist": "Lucinda Williams",
+    "year": 1998,
+    "album_art": "https://media.pitchfork.com/photos/5bcf716b56cc3c1c8c597bf2/1:1/w_320/car%20wheels%20on%20a%20gravel%20road_lucinda%20williams.jpg"
+  },
+  {
+    "rank": 306,
+    "album": "Odelay",
+    "artist": "Beck",
+    "year": 1996,
+    "album_art": "https://img.discogs.com/i4Db09ghuYkcRM9ZdjkZfF-Tt6Q=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-235913-1359397798-9718.jpeg.jpg"
+  },
+  {
+    "rank": 307,
+    "album": "A Hard Day's Night",
+    "artist": "The Beatles",
+    "year": 1964,
+    "album_art": "https://d2s36jztkuk7aw.cloudfront.net/sites/default/files/tile/image/AHardsDays_0.jpg"
+  },
+  {
+    "rank": 308,
+    "album": "Songs for Swingin' Lovers!",
+    "artist": "Frank Sinatra",
+    "year": 1956,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/A1SElbNCfQL._SY355_.jpg"
+  },
+  {
+    "rank": 309,
+    "album": "Willy and the Poor Boys",
+    "artist": "Creedence Clearwater Revival",
+    "year": 1969,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51zyoUcU3sL._SX355_.jpg"
+  },
+  {
+    "rank": 310,
+    "album": "Blood Sugar Sex Magik",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1991,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81hS2wgxbhL._SL1425_.jpg"
+  },
+  {
+    "rank": 311,
+    "album": "The Sun Records Collection",
+    "artist": "Various",
+    "year": 1994,
+    "album_art": "https://img.discogs.com/4ZBaBzUxE9Ze0YLNWpWIm6bolXY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3796174-1509911543-6099.jpeg.jpg"
+  },
+  {
+    "rank": 312,
+    "album": "Nothing's Shocking",
+    "artist": "Jane's Addiction",
+    "year": 1988,
+    "album_art": "https://i.ytimg.com/vi/gMaiCc_5jeU/maxresdefault.jpg"
+  },
+  {
+    "rank": 313,
+    "album": "MTV Unplugged in New York",
+    "artist": "Nirvana",
+    "year": 1994,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81UaBt0dbML._SL1400_.jpg"
+  },
+  {
+    "rank": 314,
+    "album": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "year": 1998,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91j5pX9RdHL._SL1500_.jpg"
+  },
+  {
+    "rank": 315,
+    "album": "Damn the Torpedoes",
+    "artist": "Tom Petty and the Heartbreakers",
+    "year": 1979,
+    "album_art": "https://i5.walmartimages.com/asr/41525a07-eb93-4df2-bb48-489e2d21df12_1.9786f1eda6e9df61d005d5d71d5b2928.jpeg"
+  },
+  {
+    "rank": 316,
+    "album": "The Velvet Underground",
+    "artist": "The Velvet Underground",
+    "year": 1969,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg"
+  },
+  {
+    "rank": 317,
+    "album": "Surfer Rosa",
+    "artist": "Pixies",
+    "year": 1988,
+    "album_art": "https://images.genius.com/a6e085205e79264f2cf1a31e408735eb.1000x1000x1.jpg"
+  },
+  {
+    "rank": 318,
+    "album": "Back Stabbers",
+    "artist": "The O'Jays",
+    "year": 1972,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/9/97/Back_Stabbers.jpg"
+  },
+  {
+    "rank": 319,
+    "album": "Burnin'",
+    "artist": "The Wailers",
+    "year": 1973,
+    "album_art": "https://img.discogs.com/tSM6avQ8PRZgHHKq5rf85Rem4WY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1581794-1320436764.jpeg.jpg"
+  },
+  {
+    "rank": 320,
+    "album": "Amnesiac",
+    "artist": "Radiohead",
+    "year": 2001,
+    "album_art": "https://img.cdandlp.com/2015/07/imgL/117612695.jpeg"
+  },
+  {
+    "rank": 321,
+    "album": "Pink Moon",
+    "artist": "Nick Drake",
+    "year": 1972,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2018/02/Nick-Drake-Pink-Moon-Album-Cover-web-optimised-820.jpg"
+  },
+  {
+    "rank": 322,
+    "album": "Sail Away",
+    "artist": "Randy Newman",
+    "year": 1972,
+    "album_art": "https://images.genius.com/7e3d81ad2c2c948b3a12e97ebb8f237b.953x953x1.jpg"
+  },
+  {
+    "rank": 323,
+    "album": "Ghost in the Machine",
+    "artist": "The Police",
+    "year": 1981,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/2/2a/Ghost_In_The_Machine_cover.jpg"
+  },
+  {
+    "rank": 324,
+    "album": "Station to Station",
+    "artist": "David Bowie",
+    "year": 1976,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/717wsO2kTGL._SL1500_.jpg"
+  },
+  {
+    "rank": 325,
+    "album": "Slowhand",
+    "artist": "Eric Clapton",
+    "year": 1977,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51rTiZ8mA8L._AC_.jpg"
+  },
+  {
+    "rank": 326,
+    "album": "Disintegration",
+    "artist": "The Cure",
+    "year": 1989,
+    "album_art": "https://www.covermesongs.com/wp-content/uploads/2016/01/cure-disintegration-500x500.png"
+  },
+  {
+    "rank": 327,
+    "album": "Exile in Guyville",
+    "artist": "Liz Phair",
+    "year": 1993,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61nTe9U28jL._SL1200_.jpg"
+  },
+  {
+    "rank": 328,
+    "album": "Daydream Nation",
+    "artist": "Sonic Youth",
+    "year": 1988,
+    "album_art": "https://img.discogs.com/romF60vGFmnwRuLWEBRfvzHRp18=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352572-1541977552-4962.jpeg.jpg"
+  },
+  {
+    "rank": 329,
+    "album": "In the Jungle Groove",
+    "artist": "James Brown",
+    "year": 1986,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/817InGb%2B-XL._SL1500_.jpg"
+  },
+  {
+    "rank": 330,
+    "album": "Tonight's the Night",
+    "artist": "Neil Young",
+    "year": 1975,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/0/01/Neil_Young_TTN_cover.jpg"
+  },
+  {
+    "rank": 331,
+    "album": "Help!",
+    "artist": "The Beatles",
+    "year": 1965,
+    "album_art": "https://img.discogs.com/6ygIOCFvmTEnKFjS7rKLX-loZYM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-735564-1391696740-8760.jpeg.jpg"
+  },
+  {
+    "rank": 332,
+    "album": "Shoot Out the Lights",
+    "artist": "Richard & Linda Thompson",
+    "year": 1982,
+    "album_art": "https://img.discogs.com/yGyfrnrKYkeyrLK-b_VpNxKRFTI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4396596-1510492520-2862.jpeg.jpg"
+  },
+  {
+    "rank": 333,
+    "album": "Wild Gift",
+    "artist": "X",
+    "year": 1981,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/912NLSyr%2BGL._SY355_.jpg"
+  },
+  {
+    "rank": 334,
+    "album": "Squeezing Out Sparks",
+    "artist": "Graham Parker & The Rumour",
+    "year": 1979,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51sdm1ZYZ-L._SY355_.jpg"
+  },
+  {
+    "rank": 335,
+    "album": "Superunknown",
+    "artist": "Soundgarden",
+    "year": 1994,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/3/3a/Superunknown.jpg"
+  },
+  {
+    "rank": 336,
+    "album": "In Rainbows",
+    "artist": "Radiohead",
+    "year": 2007,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81KWYrlOt7L._SL1254_.jpg"
+  },
+  {
+    "rank": 337,
+    "album": "Aqualung",
+    "artist": "Jethro Tull",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81Uogc1hSlL._SL1400_.jpg"
+  },
+  {
+    "rank": 338,
+    "album": "Cheap Thrills",
+    "artist": "Big Brother & the Holding Company",
+    "year": 1968,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/A1dRfDWg-ZL._SL1500_.jpg"
+  },
+  {
+    "rank": 339,
+    "album": "The Heart of Saturday Night",
+    "artist": "Tom Waits",
+    "year": 1974,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/f7/TheHeartofSaturdayNight.jpg"
+  },
+  {
+    "rank": 340,
+    "album": "Damaged",
+    "artist": "Black Flag",
+    "year": 1981,
+    "album_art": "https://img.discogs.com/uLfvgl8Q1DVYiTajOGlRzi5fOyQ=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-581152-1568041765-8786.jpeg.jpg"
+  },
+  {
+    "rank": 341,
+    "album": "Play",
+    "artist": "Moby",
+    "year": 1999,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/5107XD8268L._SY355_.jpg"
+  },
+  {
+    "rank": 342,
+    "album": "Violator",
+    "artist": "Depeche Mode",
+    "year": 1990,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61dlEQfq8lL._SY355_.jpg"
+  },
+  {
+    "rank": 343,
+    "album": "Bat Out of Hell",
+    "artist": "Meat Loaf",
+    "year": 1977,
+    "album_art": "https://i.pinimg.com/originals/6f/c8/f9/6fc8f9f1be6e11e45740ed9597ef6d8f.jpg"
+  },
+  {
+    "rank": 344,
+    "album": "Berlin",
+    "artist": "Lou Reed",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61HNmpPlzPL.jpg"
+  },
+  {
+    "rank": 345,
+    "album": "Stop Making Sense",
+    "artist": "Talking Heads",
+    "year": 1984,
+    "album_art": "https://cdn11.bigcommerce.com/s-8e25iavqdi/images/stencil/original/products/64581/63380/stop-making-sense-1-album-cover-sticker__06111.1540295682.jpg?c=2&imbypass=on"
+  },
+  {
+    "rank": 346,
+    "album": "3 Feet High and Rising",
+    "artist": "De La Soul",
+    "year": 1989,
+    "album_art": "https://img.discogs.com/8WnMGZ5cvUaZf5Lg8IS8KgFkemA=/fit-in/599x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005555-1248464166.jpeg.jpg"
+  },
+  {
+    "rank": 347,
+    "album": "The Piper at the Gates of Dawn",
+    "artist": "Pink Floyd",
+    "year": 1967,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91t8XcnSbEL._SY355_.jpg"
+  },
+  {
+    "rank": 348,
+    "album": "Muddy Waters at Newport 1960",
+    "artist": "Muddy Waters",
+    "year": 1960,
+    "album_art": "https://static.musictoday.com/store/bands/4116/product_large/FMLP296.jpg"
+  },
+  {
+    "rank": 349,
+    "album": "The Black Album",
+    "artist": "Jay Z",
+    "year": 2003,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61hpb0sv3jL._SY355_.jpg"
+  },
+  {
+    "rank": 350,
+    "album": "Roger the Engineer",
+    "artist": "The Yardbirds",
+    "year": 1966,
+    "album_art": "https://img.discogs.com/s7PtamvcVnbVm1DzGs1f816JaFQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4376141-1395659658-5626.jpeg.jpg"
+  },
+  {
+    "rank": 351,
+    "album": "Rust Never Sleeps",
+    "artist": "Neil Young & Crazy Horse",
+    "year": 1979,
+    "album_art": "https://images.roughtrade.com/product/images/files/000/094/541/original/816CyNiNKIL._SL1425_.jpg?1501171070"
+  },
+  {
+    "rank": 352,
+    "album": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "year": 1985,
+    "album_art": "https://www.markknopfler.com/wp-content/uploads/2013/08/BrothersInArms.jpg"
+  },
+  {
+    "rank": 353,
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "year": 2010,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91dHRGIV65L._SL1500_.jpg"
+  },
+  {
+    "rank": 354,
+    "album": "52nd Street",
+    "artist": "Billy Joel",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/611OI35Ag2L._SY355_.jpg"
+  },
+  {
+    "rank": 355,
+    "album": "Having a Rave Up",
+    "artist": "The Yardbirds",
+    "year": 1965,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/e/e8/Havingaraveup.jpg"
+  },
+  {
+    "rank": 356,
+    "album": "12 Songs",
+    "artist": "Randy Newman",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/813F%2B3qaIFL._SL1425_.jpg"
+  },
+  {
+    "rank": 357,
+    "album": "Between the Buttons",
+    "artist": "The Rolling Stones",
+    "year": 1967,
+    "album_art": "https://lh3.googleusercontent.com/proxy/Pg1U9QIS4-1xLi3o5iNPbwNkJN0vu1Yf2G0fU2A78SyL4H4c_7L8NzAXHLSAxwXU916GYNtBEVjGjpcgp4qoHXTy1Isj2aIhSNF-ZdnrowN5awHUQvGrR2uyBw"
+  },
+  {
+    "rank": 358,
+    "album": "Sketches of Spain",
+    "artist": "Miles Davis",
+    "year": 1960,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/811Ebk-akKL._SL1500_.jpg"
+  },
+  {
+    "rank": 359,
+    "album": "Honky Chateau",
+    "artist": "Elton John",
+    "year": 1972,
+    "album_art": "https://m.media-amazon.com/images/I/81UxW2rdfrL.jpg"
+  },
+  {
+    "rank": 360,
+    "album": "Singles Going Steady",
+    "artist": "Buzzcocks",
+    "year": 1979,
+    "album_art": "https://img.discogs.com/TaDisWoFqfW64_XX-ZgYlsagMVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712979-1304159966.jpeg.jpg"
+  },
+  {
+    "rank": 361,
+    "album": "Stankonia",
+    "artist": "OutKast",
+    "year": 2000,
+    "album_art": "https://m.media-amazon.com/images/I/81UA1Jm2FBL._SS500_.jpg"
+  },
+  {
+    "rank": 362,
+    "album": "Siamese Dream",
+    "artist": "The Smashing Pumpkins",
+    "year": 1993,
+    "album_art": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F02%2Fsiamese-dream.jpg&q=85"
+  },
+  {
+    "rank": 363,
+    "album": "Substance 1987",
+    "artist": "New Order",
+    "year": 1987,
+    "album_art": "https://img.discogs.com/61_7mNJhhmiUX1DbloQO5xaLzxo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-23662-1348258701-5880.jpeg.jpg"
+  },
+  {
+    "rank": 364,
+    "album": "L.A. Woman",
+    "artist": "The Doors",
+    "year": 1971,
+    "album_art": "https://townsquare.media/site/295/files/2015/04/LA-Woman.jpg?w=980&q=75"
+  },
+  {
+    "rank": 365,
+    "album": "Rage Against the Machine",
+    "artist": "Rage Against the Machine",
+    "year": 1992,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81ApIxyhiAL._SL1500_.jpg"
+  },
+  {
+    "rank": 366,
+    "album": "American Recordings",
+    "artist": "Johnny Cash",
+    "year": 1994,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51N0lR6s1sL._SY400_.jpg"
+  },
+  {
+    "rank": 367,
+    "album": "Ray of Light",
+    "artist": "Madonna",
+    "year": 1998,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/d/dd/Ray_of_Light_Madonna.png"
+  },
+  {
+    "rank": 368,
+    "album": "Eagles",
+    "artist": "Eagles",
+    "year": 1972,
+    "album_art": "https://images.45worlds.com/f/ab/eagles-sd-5054-ab.jpg"
+  },
+  {
+    "rank": 369,
+    "album": "Louder Than Bombs",
+    "artist": "The Smiths",
+    "year": 1987,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41AT7ZTKDML._SX300_QL70_ML2_.jpg"
+  },
+  {
+    "rank": 370,
+    "album": "Mott",
+    "artist": "Mott the Hoople",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41P1ml02dgL._SX355_.jpg"
+  },
+  {
+    "rank": 371,
+    "album": "Whatever People Say I Am, That's What I'm Not",
+    "artist": "Arctic Monkeys",
+    "year": 2006,
+    "album_art": "https://i.redd.it/hs27v1b6ii8y.png"
+  },
+  {
+    "rank": 372,
+    "album": "Reggatta de Blanc",
+    "artist": "The Police",
+    "year": 1979,
+    "album_art": "https://images.squarespace-cdn.com/content/v1/59b42337b7411c6d02fdca0e/1505669708291-7877OA40M3MHI6E0S8T7/ke17ZwdGBToddI8pDm48kNDA1KKPnejvrc8aNB1h53BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI_O0QXaCfy1WSgXfW7kCtZfhqU1lZMakzDgTpPIGZH6sKMshLAGzx4R3EDFOm1kBS/album_reggattadeblanc.jpg"
+  },
+  {
+    "rank": 373,
+    "album": "Volunteers",
+    "artist": "Jefferson Airplane",
+    "year": 1969,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81lAB-CqVfL._SY355_.jpg"
+  },
+  {
+    "rank": 374,
+    "album": "Siren",
+    "artist": "Roxy Music",
+    "year": 1975,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/a/ad/Roxysiren.jpg"
+  },
+  {
+    "rank": 375,
+    "album": "Late for the Sky",
+    "artist": "Jackson Browne",
+    "year": 1974,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/3/30/JacksonBrowneLatefortheSky.jpg"
+  },
+  {
+    "rank": 376,
+    "album": "Post",
+    "artist": "Bjork",
+    "year": 1995,
+    "album_art": "https://img.discogs.com/VHRo7pz4t8Kjz_VOBeJWytgwJgo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6744576-1459940263-4774.jpeg.jpg"
+  },
+  {
+    "rank": 377,
+    "album": "The Ultimate Collection: 1948-1990",
+    "artist": "John Lee Hooker",
+    "year": 1991,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/4114AASXA9L.jpg"
+  },
+  {
+    "rank": 378,
+    "album": "(What's the Story) Morning Glory?",
+    "artist": "Oasis",
+    "year": 1995,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81XAuWZWyqL._SL1425_.jpg"
+  },
+  {
+    "rank": 379,
+    "album": "CrazySexyCool",
+    "artist": "TLC",
+    "year": 1994,
+    "album_art": "https://img.discogs.com/Q09qFHO758ebgOd8HekbGS173Rg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-247555-1542802842-1588.jpeg.jpg"
+  },
+  {
+    "rank": 380,
+    "album": "Funky Kingston",
+    "artist": "Toots & The Maytals",
+    "year": 1973,
+    "album_art": "https://img.discogs.com/2VumeG31ie01XypAAEcHrjrm2MU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2545087-1289758825.jpeg.jpg"
+  },
+  {
+    "rank": 381,
+    "album": "The Smile Sessions",
+    "artist": "The Beach Boys",
+    "year": 2011,
+    "album_art": "https://townsquare.media/site/295/files/2011/11/Beachboys_smile_cover-300x300.jpg?w=980&q=75"
+  },
+  {
+    "rank": 382,
+    "album": "The Modern Lovers",
+    "artist": "The Modern Lovers",
+    "year": 1976,
+    "album_art": "https://media.pitchfork.com/photos/5929b2625e6ef959693222ad/1:1/w_320/e1499562.jpg"
+  },
+  {
+    "rank": 383,
+    "album": "More Songs About Buildings and Food",
+    "artist": "Talking Heads",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/A1muICLMfvL._SL1500_.jpg"
+  },
+  {
+    "rank": 384,
+    "album": "A Quick One",
+    "artist": "The Who",
+    "year": 1966,
+    "album_art": "https://www.recordsbymail.com/uploads/4-23-15-2/728480.jpg"
+  },
+  {
+    "rank": 385,
+    "album": "\"Love and Theft\"",
+    "artist": "Bob Dylan",
+    "year": 2001,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/f9/Bob_Dylan_-_Love_and_Theft.jpg"
+  },
+  {
+    "rank": 386,
+    "album": "Pretzel Logic",
+    "artist": "Steely Dan",
+    "year": 1974,
+    "album_art": "https://www.vinylpussycat.com/wp-content/uploads/DSC_0004-36.jpg"
+  },
+  {
+    "rank": 387,
+    "album": "Enter the Wu_Tang: 36 Chambers",
+    "artist": "Wu Tang Clan",
+    "year": 1993,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71BUBWTvyhL._SL1500_.jpg"
+  },
+  {
+    "rank": 388,
+    "album": "The Indestructible Beat of Soweto",
+    "artist": "Various Artists",
+    "year": 1985,
+    "album_art": "https://img.discogs.com/AMQq6XK84QszfGl_k81x7aPD8ik=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2281501-1274211322.jpeg.jpg"
+  },
+  {
+    "rank": 389,
+    "album": "The End of the Innocence",
+    "artist": "Don Henley",
+    "year": 1989,
+    "album_art": "https://m.media-amazon.com/images/I/81gjSbngDOL._SS500_.jpg"
+  },
+  {
+    "rank": 390,
+    "album": "Elephant",
+    "artist": "The White Stripes",
+    "year": 2003,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/1/11/Elephant%2C_The_White_Stripes.png"
+  },
+  {
+    "rank": 391,
+    "album": "The Pretender",
+    "artist": "Jackson Browne",
+    "year": 1976,
+    "album_art": "https://img.discogs.com/Wp3lWPStIDkb8HhsarPV2PELv0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1844636-1385393067-8580.jpeg.jpg"
+  },
+  {
+    "rank": 392,
+    "album": "Let It Be",
+    "artist": "The Beatles",
+    "year": 1970,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/5/51/TheBeatles-LetItBe%282011VinylReissue%29.png"
+  },
+  {
+    "rank": 393,
+    "album": "Kala",
+    "artist": "M.I.A.",
+    "year": 2007,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/c/cf/M.I.A._-_Kala.png"
+  },
+  {
+    "rank": 394,
+    "album": "Good Old Boys",
+    "artist": "Randy Newman",
+    "year": 1974,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41a0ZiVZ5LL._SX355_.jpg"
+  },
+  {
+    "rank": 395,
+    "album": "Sound of Silver",
+    "artist": "LCD Soundsystem",
+    "year": 2007,
+    "album_art": "https://img.discogs.com/cej1_E1cHHdc-zdbv3CCmwgo-E4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9691744-1580043996-8264.jpeg.jpg"
+  },
+  {
+    "rank": 396,
+    "album": "For Your Pleasure",
+    "artist": "Roxy Music",
+    "year": 1973,
+    "album_art": "https://img.discogs.com/IKr75kr4RDabUEDG_CMVk8EurYs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2279476-1274206217.jpeg.jpg"
+  },
+  {
+    "rank": 397,
+    "album": "Blue Lines",
+    "artist": "Massive Attack",
+    "year": 1991,
+    "album_art": "https://img.discogs.com/o2NLioei6tkQuwEOcFkUbNQl1tQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65754-1320097333.jpeg.jpg"
+  },
+  {
+    "rank": 398,
+    "album": "Eliminator",
+    "artist": "ZZ Top",
+    "year": 1983,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/713UXlz1MiL._AC_SL1417_.jpg"
+  },
+  {
+    "rank": 399,
+    "album": "Rain Dogs",
+    "artist": "Tom Waits",
+    "year": 1985,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81eN10gtGhL._SY355_.jpg"
+  },
+  {
+    "rank": 400,
+    "album": "Anthology: The Best of The Temptations",
+    "artist": "The Temptations",
+    "year": 1995,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41jWFJEO9HL._SY355_.jpg"
+  },
+  {
+    "rank": 401,
+    "album": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1999,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81TnWHafWdL._SY355_.jpg"
+  },
+  {
+    "rank": 402,
+    "album": "Illmatic",
+    "artist": "Nas",
+    "year": 1994,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81oJg8R1C4L._SY355_.jpg"
+  },
+  {
+    "rank": 403,
+    "album": "(pronounced 'leh-'nerd 'skin-'nerd)",
+    "artist": "Lynyrd Skynyrd",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/813cxqBHguL._SL1200_.jpg"
+  },
+  {
+    "rank": 404,
+    "album": "Dr. John's Gumbo",
+    "artist": "Dr. John",
+    "year": 1972,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/A1Mm1dCsV3L._SY355_.jpg"
+  },
+  {
+    "rank": 405,
+    "album": "Radio City",
+    "artist": "Big Star",
+    "year": 1974,
+    "album_art": "https://consequenceofsound.net/wp-content/uploads/2019/03/Big-Star-Radio-City1.jpg?quality=80&w=807"
+  },
+  {
+    "rank": 406,
+    "album": "Rid of Me",
+    "artist": "PJ Harvey",
+    "year": 1993,
+    "album_art": "https://media.pitchfork.com/photos/5b9153fccee94b2c79b99688/1:1/w_320/pj%20harvey_rid%20of%20me.jpg"
+  },
+  {
+    "rank": 407,
+    "album": "Sandinista!",
+    "artist": "The Clash",
+    "year": 1980,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/6/66/The_Clash_-_Sandinista%21.jpg"
+  },
+  {
+    "rank": 408,
+    "album": "I Do Not Want What I Haven't Got",
+    "artist": "Sinead O'Connor",
+    "year": 1989,
+    "album_art": "https://m.media-amazon.com/images/I/71az5TtBKbL._SS500_.jpg"
+  },
+  {
+    "rank": 409,
+    "album": "Strange Days",
+    "artist": "The Doors",
+    "year": 1967,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/fc/AlbumStrangeDays.jpg"
+  },
+  {
+    "rank": 410,
+    "album": "Time Out of Mind",
+    "artist": "Bob Dylan",
+    "year": 1997,
+    "album_art": "https://media.pitchfork.com/photos/5ad6530362be0b0b29074a9a/1:1/w_600/Bob%20Dylan_time%20out%20of%20mind.jpg"
+  },
+  {
+    "rank": 411,
+    "album": "461 Ocean Boulevard",
+    "artist": "Eric Clapton",
+    "year": 1974,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/813LRtJwm-L._SL1416_.jpg"
+  },
+  {
+    "rank": 412,
+    "album": "Pink Flag",
+    "artist": "Wire",
+    "year": 1977,
+    "album_art": "https://cdn.shopify.com/s/files/1/0890/9074/products/R-12172756-1530197830-3084_jpeg_grande.jpg?v=1538890592"
+  },
+  {
+    "rank": 413,
+    "album": "Double Nickels on the Dime",
+    "artist": "Minutemen",
+    "year": 1984,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/b/bc/Doublenickels.jpg"
+  },
+  {
+    "rank": 414,
+    "album": "Beauty and the Beat",
+    "artist": "The Go Go's",
+    "year": 1981,
+    "album_art": "https://m.media-amazon.com/images/I/819gwd5D6jL._SS500_.jpg"
+  },
+  {
+    "rank": 415,
+    "album": "Van Halen",
+    "artist": "Van Halen",
+    "year": 1978,
+    "album_art": "https://www.vanhalenstore.com/shop/graphics/00000002/CD101B.jpg"
+  },
+  {
+    "rank": 416,
+    "album": "Mule Variations",
+    "artist": "Tom Waits",
+    "year": 1999,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/412YGAJNY4L.jpg"
+  },
+  {
+    "rank": 417,
+    "album": "Boy",
+    "artist": "U2",
+    "year": 1980,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81RVXancHTL._SY355_.jpg"
+  },
+  {
+    "rank": 418,
+    "album": "Band on the Run",
+    "artist": "Paul McCartney & Wings",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51STfCjOTZL._SY355_.jpg"
+  },
+  {
+    "rank": 419,
+    "album": "Dummy",
+    "artist": "Portishead",
+    "year": 1994,
+    "album_art": "https://media.pitchfork.com/photos/5929c375eb335119a49ed6f6/1:1/w_320/d17fe61e.jpg"
+  },
+  {
+    "rank": 420,
+    "album": "The \"Chirping\" Crickets",
+    "artist": "The Crickets",
+    "year": 1957,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61ak6igPW-L._SY355_.jpg"
+  },
+  {
+    "rank": 421,
+    "album": "The Best of the Girl Groups, Volume 1",
+    "artist": "Various Artists",
+    "year": 1990,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/411Z866QZEL.jpg"
+  },
+  {
+    "rank": 422,
+    "album": "Presenting the Fabulous Ronettes Featuring Veronica",
+    "artist": "The Ronettes",
+    "year": 1963,
+    "album_art": "https://img.discogs.com/yKFAqsJ2RyFQgyYQn6WvtiF65Mw=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949463-1478607570-5335.jpeg.jpg"
+  },
+  {
+    "rank": 423,
+    "album": "Anthology",
+    "artist": "Diana Ross & The Supremes",
+    "year": 2001,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61k02H9uCwL._SX355_.jpg"
+  },
+  {
+    "rank": 424,
+    "album": "The Rising",
+    "artist": "Bruce Springsteen",
+    "year": 2002,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/41WX7CEJ72L.jpg"
+  },
+  {
+    "rank": 425,
+    "album": "Grievous Angel",
+    "artist": "Gram Parsons",
+    "year": 1974,
+    "album_art": "https://img.discogs.com/mB8kxHPO6M1e79g1Z8XrIehLVGU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-974590-1327210749.jpeg.jpg"
+  },
+  {
+    "rank": 426,
+    "album": "Cheap Trick at Budokan",
+    "artist": "Cheap Trick",
+    "year": 1978,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/2/22/CheapTrick_Live_atBudokan.jpg"
+  },
+  {
+    "rank": 427,
+    "album": "Sleepless",
+    "artist": "Peter Wolf",
+    "year": 2002,
+    "album_art": "https://lh3.googleusercontent.com/proxy/XbGxHgjGheZIZiwYD3zGJQ_25WNlFa6kZT93I8WI6dFSzuxAuZ1byUwZ1Bo6PupTr3-x9tg4e8NRByIx9l03RpMq5Zv5G4KeYakJb_Xm0g"
+  },
+  {
+    "rank": 428,
+    "album": "Outlandos d'Amour",
+    "artist": "The Police",
+    "year": 1978,
+    "album_art": "https://images.squarespace-cdn.com/content/v1/59b42337b7411c6d02fdca0e/1505667520194-EFC0VJZPJ92URVWMT3JC/ke17ZwdGBToddI8pDm48kNDA1KKPnejvrc8aNB1h53BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI_O0QXaCfy1WSgXfW7kCtZfhqU1lZMakzDgTpPIGZH6sKMshLAGzx4R3EDFOm1kBS/album_outlandosdamour.jpg"
+  },
+  {
+    "rank": 429,
+    "album": "Another Green World",
+    "artist": "Brian Eno",
+    "year": 1975,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/9/92/Another_Green_World.jpg"
+  },
+  {
+    "rank": 430,
+    "album": "Vampire Weekend",
+    "artist": "Vampire Weekend",
+    "year": 2007,
+    "album_art": "https://media.pitchfork.com/photos/5929b41e13d197565213aa5f/1:1/w_320/8212e6dc.jpeg"
+  },
+  {
+    "rank": 431,
+    "album": "Stories From the City, Stories From the Sea",
+    "artist": "PJ Harvey",
+    "year": 2000,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/a/a3/Stories_From_The_City%2C_Stories_From_The_Sea.jpg"
+  },
+  {
+    "rank": 432,
+    "album": "Here Come the Warm Jets",
+    "artist": "Brian Eno",
+    "year": 1973,
+    "album_art": "https://m.media-amazon.com/images/I/51S2KFVAJDL._AC_UL436_.jpg"
+  },
+  {
+    "rank": 433,
+    "album": "All Things Must Pass",
+    "artist": "George Harrison",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51ldXezFtfL._SY355_.jpg"
+  },
+  {
+    "rank": 434,
+    "album": "#1 Record",
+    "artist": "Big Star",
+    "year": 1972,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/5/57/Big_Star_-1_Record.jpg"
+  },
+  {
+    "rank": 435,
+    "album": "In Utero",
+    "artist": "Nirvana",
+    "year": 1993,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71LZwfyAMuL._SL1500_.jpg"
+  },
+  {
+    "rank": 436,
+    "album": "Sea Change",
+    "artist": "Beck",
+    "year": 2002,
+    "album_art": "https://media.pitchfork.com/photos/5929a24d13d197565213883a/1:1/w_320/7815a71f.jpg"
+  },
+  {
+    "rank": 437,
+    "album": "Tha Carter III",
+    "artist": "Lil Wayne",
+    "year": 2008,
+    "album_art": "https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/oywkbowhis24zygpzwyy/carter-3"
+  },
+  {
+    "rank": 438,
+    "album": "Boys Don't Cry",
+    "artist": "The Cure",
+    "year": 1979,
+    "album_art": "https://static1.squarespace.com/static/5d49fb85c612420001eaf2ae/5dfae926ba3b441134a1b1fd/5e1fc662f8c3503a1722ded2/1586828064385/CURE-1385570-1215111225.jpeg.jpg?format=1500w"
+  },
+  {
+    "rank": 439,
+    "album": "Live at the Harlem Square Club, 1963",
+    "artist": "Sam Cooke",
+    "year": 1985,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71IV7UHFhpL._SX355_.jpg"
+  },
+  {
+    "rank": 440,
+    "album": "Rum Sodomy & the Lash",
+    "artist": "The Pogues",
+    "year": 1985,
+    "album_art": "https://media.musicarts.com/is/image/MMGS7/K57197000000000-00-600x600.jpg"
+  },
+  {
+    "rank": 441,
+    "album": "Suicide",
+    "artist": "Suicide",
+    "year": 1977,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/2/26/Suicide1977.jpg"
+  },
+  {
+    "rank": 442,
+    "album": "Q: Are We Not Men? A: We Are Devo!",
+    "artist": "DEVO",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81G8GS7hOWL._SL1425_.jpg"
+  },
+  {
+    "rank": 443,
+    "album": "In Color",
+    "artist": "Cheap Trick",
+    "year": 1977,
+    "album_art": "https://townsquare.media/site/295/files/2012/08/in-color.jpg?w=980&q=75"
+  },
+  {
+    "rank": 444,
+    "album": "The World Is a Ghetto",
+    "artist": "War",
+    "year": 1972,
+    "album_art": "https://img.discogs.com/5OcAxruqrCNas9Mepix75agRxzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428062-1536609897-7425.jpeg.jpg"
+  },
+  {
+    "rank": 445,
+    "album": "Fly Like an Eagle",
+    "artist": "Steve Miller Band",
+    "year": 1976,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2016/12/Steve-Miller-Band-Fly-Like-An-Eagle.jpg"
+  },
+  {
+    "rank": 446,
+    "album": "Back in the USA",
+    "artist": "MC5",
+    "year": 1970,
+    "album_art": "https://i.pinimg.com/736x/ff/cd/38/ffcd38a967377c33541f74ab1713ea49.jpg"
+  },
+  {
+    "rank": 447,
+    "album": "Getz / Gilberto",
+    "artist": "Stan Getz",
+    "year": 1964,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81Ukv8Tn-JL._SX355_.jpg"
+  },
+  {
+    "rank": 448,
+    "album": "Synchronicity",
+    "artist": "The Police",
+    "year": 1983,
+    "album_art": "https://images.squarespace-cdn.com/content/v1/59b42337b7411c6d02fdca0e/1505264720257-AK5BCQP8JTE119FVRYA3/ke17ZwdGBToddI8pDm48kNDA1KKPnejvrc8aNB1h53BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI_O0QXaCfy1WSgXfW7kCtZfhqU1lZMakzDgTpPIGZH6sKMshLAGzx4R3EDFOm1kBS/album_synchronicity.jpg"
+  },
+  {
+    "rank": 449,
+    "album": "Third/Sister Lovers",
+    "artist": "Big Star",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61JDSVpTjXL._SY355_.jpg"
+  },
+  {
+    "rank": 450,
+    "album": "For Everyman",
+    "artist": "Jackson Browne",
+    "year": 1973,
+    "album_art": "https://www.jacksonbrowne.com/uploads/discography/1973-for-everyman/cover.jpg"
+  },
+  {
+    "rank": 451,
+    "album": "Back to Black",
+    "artist": "Amy Winehouse",
+    "year": 2006,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71caoKZoCsL._SL1400_.jpg"
+  },
+  {
+    "rank": 452,
+    "album": "John Prine",
+    "artist": "John Prine",
+    "year": 1971,
+    "album_art": "https://s3.amazonaws.com/busites_www/johnprine/user_data/4/uploads/johnprineselftitled_grande_82227c1f_23bd_4da6_b01a_52f79ead733f_large_1491415473.jpg"
+  },
+  {
+    "rank": 453,
+    "album": "Strictly Business",
+    "artist": "EPMD",
+    "year": 1987,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2019/06/EPMD-Strictly-Business-album-cover-820.jpg"
+  },
+  {
+    "rank": 454,
+    "album": "Love It to Death",
+    "artist": "Alice Cooper",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81Hz8IpPulL._SL1425_.jpg"
+  },
+  {
+    "rank": 455,
+    "album": "How Will the Wolf Survive?",
+    "artist": "Los Lobos",
+    "year": 1984,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61O06RHxabL._SX425_.jpg"
+  },
+  {
+    "rank": 456,
+    "album": "Here, My Dear",
+    "artist": "Marvin Gaye",
+    "year": 1978,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81yUPFFkoGL._SY355_.jpg"
+  },
+  {
+    "rank": 457,
+    "album": "Z",
+    "artist": "My Morning Jacket",
+    "year": 2005,
+    "album_art": "https://media.pitchfork.com/photos/5929beccea9e61561daa7960/1:1/w_320/44d27d18.jpg"
+  },
+  {
+    "rank": 458,
+    "album": "Tumbleweed Connection",
+    "artist": "Elton John",
+    "year": 1970,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51I1QW1hHWL._SY355_.jpg"
+  },
+  {
+    "rank": 459,
+    "album": "The Drifters' Golden Hits",
+    "artist": "The Drifters",
+    "year": 1968,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61L2IRZOw6L._SX355_.jpg"
+  },
+  {
+    "rank": 460,
+    "album": "Live Through This",
+    "artist": "Hole",
+    "year": 1994,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81hsQFQWJjL._SY355_.jpg"
+  },
+  {
+    "rank": 461,
+    "album": "Metal Box",
+    "artist": "Public Image Ltd.",
+    "year": 1979,
+    "album_art": "https://img.discogs.com/SrTMXhHVxMCP-D9n3n_MmgHS9m8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2118164-1266775785.jpeg.jpg"
+  },
+  {
+    "rank": 462,
+    "album": "Document",
+    "artist": "R.E.M.",
+    "year": 1987,
+    "album_art": "https://store.acousticsounds.com/images/large/CEMI_99398__16819__01152009113816-2537.jpg"
+  },
+  {
+    "rank": 463,
+    "album": "Heaven Up Here",
+    "artist": "Echo and The Bunnymen",
+    "year": 1981,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/716Vb79GzWL._SL1402_.jpg"
+  },
+  {
+    "rank": 464,
+    "album": "Hysteria",
+    "artist": "Def Leppard",
+    "year": 1987,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/A1Y9W-eKG-L._SY355_.jpg"
+  },
+  {
+    "rank": 465,
+    "album": "69 Love Songs",
+    "artist": "The Magnetic Fields",
+    "year": 1999,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/612Sq1wgkHL._SL1500_.jpg"
+  },
+  {
+    "rank": 466,
+    "album": "A Rush of Blood to the Head",
+    "artist": "Coldplay",
+    "year": 2002,
+    "album_art": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-145094-7bd2ecf923f4c21e495c431e2c2092c6cb87c432.jpg"
+  },
+  {
+    "rank": 467,
+    "album": "Tunnel of Love",
+    "artist": "Bruce Springsteen",
+    "year": 1987,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51xekRQMTYL._SX355_.jpg"
+  },
+  {
+    "rank": 468,
+    "album": "The Paul Butterfield Blues Band",
+    "artist": "The Paul Butterfield Blues Band",
+    "year": 1965,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81DCRuSH25L._SL1500_.jpg"
+  },
+  {
+    "rank": 469,
+    "album": "The Score",
+    "artist": "Fugees",
+    "year": 1996,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61JAYPUIDHL._SL1080_.jpg"
+  },
+  {
+    "rank": 470,
+    "album": "Radio",
+    "artist": "L.L. Cool J",
+    "year": 1985,
+    "album_art": "https://www.udiscovermusic.com/wp-content/uploads/2019/11/LL-Cool-J-Radio-album-cover-820.jpg"
+  },
+  {
+    "rank": 471,
+    "album": "I Want to See the Bright Lights Tonight",
+    "artist": "Richard & Linda Thompson",
+    "year": 1974,
+    "album_art": "https://e.snmc.io/i/600/w/0b3ccc03d12eac085cff8873349ecdd8/3012175"
+  },
+  {
+    "rank": 472,
+    "album": "Faith",
+    "artist": "George Michael",
+    "year": 1987,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/51BQwIBQM4L._SX466_.jpg"
+  },
+  {
+    "rank": 473,
+    "album": "The Smiths",
+    "artist": "The Smiths",
+    "year": 1984,
+    "album_art": "https://img.discogs.com/mAfb2fpTaO0sHUblXyEkO92GjuA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4639827-1383996713-9945.jpeg.jpg"
+  },
+  {
+    "rank": 474,
+    "album": "Proxima estacion: Esperanza",
+    "artist": "Manu Chao",
+    "year": 2001,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61StCk7Si8L._SY355_.jpg"
+  },
+  {
+    "rank": 475,
+    "album": "Armed Forces",
+    "artist": "Elvis Costello & The Attractions",
+    "year": 1979,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/f/fa/Elvis_costello_armed_forces_1.jpg"
+  },
+  {
+    "rank": 476,
+    "album": "Life After Death",
+    "artist": "The Notorious B.I.G.",
+    "year": 1997,
+    "album_art": "https://upload.wikimedia.org/wikipedia/en/1/1c/NotoriousB.I.G.LifeAfterDeath.jpg"
+  },
+  {
+    "rank": 477,
+    "album": "Down Every Road",
+    "artist": "Merle Haggard",
+    "year": 1996,
+    "album_art": "https://lastfm.freetls.fastly.net/i/u/500x500/f0003e9ab7534d1a9129f7fbd79ef99e.jpg"
+  },
+  {
+    "rank": 478,
+    "album": "All Time Greatest Hits",
+    "artist": "Loretta Lynn",
+    "year": 2002,
+    "album_art": "https://m.media-amazon.com/images/I/81bgS9JD0pL._SS500_.jpg"
+  },
+  {
+    "rank": 479,
+    "album": "Maggot Brain",
+    "artist": "Funkadelic",
+    "year": 1971,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91XuGESJC%2BL._SY355_.jpg"
+  },
+  {
+    "rank": 480,
+    "album": "Only Built 4 Cuban Linx",
+    "artist": "Raekwon",
+    "year": 1995,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81zg1DZagFL._SY355_.jpg"
+  },
+  {
+    "rank": 481,
+    "album": "Voodoo",
+    "artist": "D'Angelo",
+    "year": 2000,
+    "album_art": "https://cdn.webshopapp.com/shops/252051/files/183415190/universal-dangelo-voodoo.jpg"
+  },
+  {
+    "rank": 482,
+    "album": "Guitar Town",
+    "artist": "Steve Earle",
+    "year": 1986,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/91-LVcmL1IL._SL1200_.jpg"
+  },
+  {
+    "rank": 483,
+    "album": "Entertainment!",
+    "artist": "Gang of Four",
+    "year": 1979,
+    "album_art": "https://img.discogs.com/_aesobK3wNl5qqYO1L8QT-CABKQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2379398-1362735819-9658.jpeg.jpg"
+  },
+  {
+    "rank": 484,
+    "album": "All the Young Dudes",
+    "artist": "Mott the Hoople",
+    "year": 1972,
+    "album_art": "https://img.discogs.com/yLD83HNoy-HUY7zUUBQ0o43SfQQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3822837-1474231492-5537.jpeg.jpg"
+  },
+  {
+    "rank": 485,
+    "album": "Vitalogy",
+    "artist": "Pearl Jam",
+    "year": 1994,
+    "album_art": "https://img.discogs.com/PR2dOEZOko3Sy0p4aZGJoQJJlKQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-464904-1498739748-6715.jpeg.jpg"
+  },
+  {
+    "rank": 486,
+    "album": "That's the Way of the World",
+    "artist": "Earth, Wind & Fire",
+    "year": 1975,
+    "album_art": "https://cdn.shopify.com/s/files/1/0963/1508/products/131438_large.jpg?v=1575932937"
+  },
+  {
+    "rank": 487,
+    "album": "She's So Unusual",
+    "artist": "Cyndi Lauper",
+    "year": 1983,
+    "album_art": "https://www.mofi.com/v/vspfiles/photos/MOFI1-027-2.jpg?v-cache=1529506499"
+  },
+  {
+    "rank": 488,
+    "album": "New Day Rising",
+    "artist": "Husker Du",
+    "year": 1985,
+    "album_art": "https://m.media-amazon.com/images/I/91DAUBdTF1L._SS500_.jpg"
+  },
+  {
+    "rank": 489,
+    "album": "Destroyer",
+    "artist": "KISS",
+    "year": 1976,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/71qDEpdWZsL._SL1200_.jpg"
+  },
+  {
+    "rank": 490,
+    "album": "Tres hombres",
+    "artist": "ZZ Top",
+    "year": 1973,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/61-1qlDwu4L._SX355_.jpg"
+  },
+  {
+    "rank": 491,
+    "album": "Born Under a Bad Sign",
+    "artist": "Albert King",
+    "year": 1967,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/412WRF031XL.jpg"
+  },
+  {
+    "rank": 492,
+    "album": "Touch",
+    "artist": "Eurythmics",
+    "year": 1983,
+    "album_art": "https://img.discogs.com/D-06Q4dRk5fg59mw3Xzr1dbTISo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11953303-1525376596-9851.jpeg.jpg"
+  },
+  {
+    "rank": 493,
+    "album": "Yankee Hotel Foxtrot",
+    "artist": "Wilco",
+    "year": 2002,
+    "album_art": "https://prodimage.images-bn.com/pimages/0075597966923_p0_v1_s550x406.jpg"
+  },
+  {
+    "rank": 494,
+    "album": "Oracular Spectacular",
+    "artist": "MGMT",
+    "year": 2007,
+    "album_art": "https://img.discogs.com/RKl7ZMhVR5I_28ilBSTbUdnoX10=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1242187-1299880552.jpeg.jpg"
+  },
+  {
+    "rank": 495,
+    "album": "Give It Up",
+    "artist": "Bonnie Raitt",
+    "year": 1972,
+    "album_art": "https://m.media-amazon.com/images/I/81uhNuX+OgL._SS500_.jpg"
+  },
+  {
+    "rank": 496,
+    "album": "Boz Scaggs",
+    "artist": "Boz Scaggs",
+    "year": 1969,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/81LH7l9qmHL._SX355_.jpg"
+  },
+  {
+    "rank": 497,
+    "album": "White Blood Cells",
+    "artist": "The White Stripes",
+    "year": 2001,
+    "album_art": "https://media.pitchfork.com/photos/5929aa18c0084474cd0c1141/1:1/w_600/b39a21f4.jpeg"
+  },
+  {
+    "rank": 498,
+    "album": "The Stone Roses",
+    "artist": "The Stone Roses",
+    "year": 1989,
+    "album_art": "https://img.discogs.com/jaLqEUt9amSpz6TdMQdzIx9G7Jk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-156092-1534078946-7723.jpeg.jpg"
+  },
+  {
+    "rank": 499,
+    "album": "Live in Cook County Jail",
+    "artist": "B.B. King",
+    "year": 1971,
+    "album_art": "https://img.discogs.com/CYKk_onk18ddb_gUndwxhd4Cx9o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7555656-1497349164-7442.jpeg.jpg"
+  },
+  {
+    "rank": 500,
+    "album": "Aquemini",
+    "artist": "OutKast",
+    "year": 1998,
+    "album_art": "https://images-na.ssl-images-amazon.com/images/I/815BM%2BmybsL._SL1417_.jpg"
+  }
+]
